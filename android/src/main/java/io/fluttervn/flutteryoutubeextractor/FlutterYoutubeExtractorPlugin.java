@@ -2,6 +2,7 @@ package io.fluttervn.flutteryoutubeextractor;
 
 import android.content.Context;
 import android.util.SparseArray;
+import android.text.TextUtils;
 
 import at.huber.youtubeExtractor.VideoMeta;
 import at.huber.youtubeExtractor.YouTubeExtractor;
@@ -41,11 +42,37 @@ public class FlutterYoutubeExtractorPlugin implements MethodCallHandler {
                 @Override
                 public void onExtractionComplete(SparseArray<YtFile> ytFiles, VideoMeta vMeta) {
                     if (ytFiles != null) {
-                        int itag = 22;
-                        String downloadUrl = "";
-                        if (ytFiles.get(itag) != null)
-                            downloadUrl = ytFiles.get(itag).getUrl();
-                        nativeChannel.invokeMethod("receiveYoutubeMediaLink", downloadUrl);
+                        String mediaLink = "";
+                        String link720 = "", link480 = "", link360 = "";
+
+                        if (ytFiles.get(22) != null) {
+                            mediaLink = ytFiles.get(22).getUrl();
+
+                        } else {
+                            YtFile ytFile;
+                            for (int i = 0; i < ytFiles.size(); i++) {
+                                if (!TextUtils.isEmpty(link720) && !TextUtils.isEmpty(link480) && !TextUtils.isEmpty(link360))
+                                    break;
+
+                                ytFile = ytFiles.get(i);
+                                if(ytFile != null && ytFile.getFormat()!= null) {
+                                    if (TextUtils.isEmpty(link720) && ytFile.getFormat().getHeight() == 720 && ytFile.getFormat().getAudioBitrate() != -1) {
+                                        link720 = ytFile.getUrl();
+
+                                    } else if (TextUtils.isEmpty(link480) && ytFile.getFormat().getHeight() == 480 && ytFile.getFormat().getAudioBitrate() != -1) {
+                                        link480 = ytFile.getUrl();
+
+                                    } else if (TextUtils.isEmpty(link360) && ytFile.getFormat().getHeight() == 360 && ytFile.getFormat().getAudioBitrate() != -1) {
+                                        link360 = ytFile.getUrl();
+
+                                    } else if (ytFile.getFormat().getAudioBitrate() != -1)
+                                        mediaLink = ytFile.getUrl();
+                                }
+                            }
+
+                            mediaLink = !TextUtils.isEmpty(link720) ? link720 : !TextUtils.isEmpty(link480) ? link480 : !TextUtils.isEmpty(link360)? link360 : mediaLink;
+                        }
+                        nativeChannel.invokeMethod("receiveYoutubeMediaLink", mediaLink);
                     }
                 }
             }.extract(youtubeLink, true, true);

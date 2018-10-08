@@ -23,7 +23,7 @@ class _MyAppState extends State<MyApp> {
   Future<void> initPlatformState() async {
     try {
       FlutterYoutubeExtractor.getYoutubeMediaLink(
-          youtubeLink: 'https://www.youtube.com/watch?v=TZRpCGQsBCw',
+          youtubeLink: 'https://www.youtube.com/embed/f-BzUepNeZw',
           onReceive: (link) {
             if (!mounted) return;
 

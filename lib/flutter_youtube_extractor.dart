@@ -16,7 +16,7 @@ class FlutterYoutubeExtractor {
       else if (youtubeLink.contains('embed'))
         _link =
             'https://www.youtube.com/watch?v=${youtubeLink.substring(youtubeLink.indexOf('embed/') + 6)}';
-
+      print('~> $_link');
       _nativeChannel.invokeMethod('getYoutubeMediaLink', _link);
     } else
       onReceive('Unknown');
