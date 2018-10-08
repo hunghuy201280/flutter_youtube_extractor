@@ -29,6 +29,8 @@ end
 target 'Runner' do
   use_frameworks!
 
+  pod "XCDYouTubeKit", "~> 2.6"
+
   # Prepare symlinks folder. We use symlinks to avoid having Podfile.lock
   # referring to absolute paths on developers' machines.
   system('rm -rf .symlinks')
