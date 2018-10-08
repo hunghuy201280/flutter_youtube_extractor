@@ -1,0 +1,6 @@
+android/.idea
+*.properties
+android/gradlew
+android/gradlew.bat
+*.iml
+*.lock
