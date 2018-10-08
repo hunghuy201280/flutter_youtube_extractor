@@ -4,3 +4,4 @@ android/gradlew
 android/gradlew.bat
 *.iml
 *.lock
+.idea
