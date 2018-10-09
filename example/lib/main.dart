@@ -13,6 +13,7 @@ class MyApp extends StatefulWidget {
 
 class _MyAppState extends State<MyApp> {
   String _youtubeMediaLink = 'Unknown';
+  bool isLandScape = false;
 
   @override
   void initState() {
@@ -39,14 +40,20 @@ class _MyAppState extends State<MyApp> {
   @override
   Widget build(BuildContext context) {
     return new MaterialApp(
-      home: new Scaffold(
-        appBar: new AppBar(
-          title: const Text('Plugin example app'),
-        ),
-        body: new Center(
-          child: new Text('Youtube Media link: $_youtubeMediaLink\n'),
-        ),
+        home: new Scaffold(
+      appBar: new AppBar(
+        title: const Text('Plugin example app'),
       ),
-    );
+      body: new Center(
+        child: new Text('Youtube Media link: $_youtubeMediaLink\n'),
+      ),
+      floatingActionButton: FloatingActionButton(
+        child: Icon(Icons.rotate_left),
+        onPressed: () {
+          isLandScape = !isLandScape;
+          FlutterYoutubeExtractor.requestRotateScreen(isLandscape: isLandScape);
+        },
+      ),
+    ));
   }
 }

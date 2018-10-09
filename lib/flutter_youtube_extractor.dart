@@ -29,4 +29,8 @@ class FlutterYoutubeExtractor {
       }
     });
   }
+
+  static void requestRotateScreen({bool isLandscape}) {
+    _nativeChannel.invokeMethod('requestRotateScreen', isLandscape);
+  }
 }

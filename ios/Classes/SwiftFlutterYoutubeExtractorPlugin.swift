@@ -16,19 +16,22 @@ public class SwiftFlutterYoutubeExtractorPlugin: NSObject, FlutterPlugin {
         let instance = SwiftFlutterYoutubeExtractorPlugin()
         registrar.addMethodCallDelegate(instance, channel: channel)
     }
-    
+
     public func handle(_ call: FlutterMethodCall, result: @escaping FlutterResult) {
-        let params = call.arguments as? String
         switch call.method {
         case "getYoutubeMediaLink":
-            self.getLinkVideoFromYoutube(params!)
+            self.getLinkVideoFromYoutube(call.arguments as! String)
             break
+
+        case "requestRotateScreen":
+            requestRotateScreen(call.arguments as! Bool)
+            break
+
         default:
             break
         }
-        //    result("iOS " + UIDevice.current.systemVersion)
     }
-    
+
     func extractYouTubeId(from url: String) -> String? {
         let typePattern = "(?:(?:\\.be\\/|embed\\/|v\\/|\\?v=|\\&v=|\\/videos\\/)|(?:[\\w+]+#\\w\\/\\w(?:\\/[\\w]+)?\\/\\w\\/))([\\w-_]+)"
         let regex = try? NSRegularExpression(pattern: typePattern, options: .caseInsensitive)
@@ -37,7 +40,7 @@ public class SwiftFlutterYoutubeExtractorPlugin: NSObject, FlutterPlugin {
             .flatMap { Range($0.range(at: 1), in: url) }
             .map { String(url[$0]) }
     }
-    
+
     func getLinkVideoFromYoutube(_ url: String) {
         let videoIdentifier = extractYouTubeId(from: url)
         XCDYouTubeClient.default().getVideoWithIdentifier(videoIdentifier) { (videos, error) in
@@ -53,5 +56,15 @@ public class SwiftFlutterYoutubeExtractorPlugin: NSObject, FlutterPlugin {
                 print("error with: \(String(describing: error?.localizedDescription))")
             }
         }
+    }
+
+    func requestRotateScreen(_ isLandscape: Bool) {
+        var orientation = UIInterfaceOrientation.portrait.rawValue
+
+        if(isLandscape) {
+            orientation = UIInterfaceOrientation.landscapeLeft.rawValue
+        }
+
+        UIDevice.current.setValue(orientation, forKey: "orientation")
     }
 }
