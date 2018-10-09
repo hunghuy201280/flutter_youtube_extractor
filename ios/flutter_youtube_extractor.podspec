@@ -17,5 +17,5 @@ A new Flutter plugin for getting youtube media link.
   s.dependency 'Flutter'
 
   s.ios.deployment_target = '8.0'
+  s.dependency 'XCDYouTubeKit'
 end
-
