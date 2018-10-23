@@ -45,8 +45,8 @@ public class FlutterYoutubeExtractorPlugin implements MethodCallHandler {
                         String mediaLink = "";
                         String link720 = "", link480 = "", link360 = "";
 
-                        if (ytFiles.get(22) != null) {
-                            mediaLink = ytFiles.get(22).getUrl();
+                        if (ytFiles.get(22) != null || ytFiles.get(18) != null || ytFiles.get(36) != null) {
+                            mediaLink = ytFiles.get(22) != null ? ytFiles.get(22).getUrl() : (ytFiles.get(18) != null) ? ytFiles.get(18).getUrl() : (ytFiles.get(36) != null) ? ytFiles.get(36).getUrl() : "";
 
                         } else {
                             YtFile ytFile;
