@@ -1,17 +1,21 @@
 package io.fluttervn.flutteryoutubeextractor;
 
 import android.content.Context;
-import android.util.SparseArray;
-import android.text.TextUtils;
+import android.net.Uri;
+import android.util.Log;
 
-import at.huber.youtubeExtractor.VideoMeta;
-import at.huber.youtubeExtractor.YouTubeExtractor;
-import at.huber.youtubeExtractor.YtFile;
+import java.util.List;
+
 import io.flutter.plugin.common.MethodCall;
 import io.flutter.plugin.common.MethodChannel;
 import io.flutter.plugin.common.MethodChannel.MethodCallHandler;
 import io.flutter.plugin.common.MethodChannel.Result;
 import io.flutter.plugin.common.PluginRegistry.Registrar;
+import ytextractor.ExtractorException;
+import ytextractor.YoutubeStreamExtractor;
+import ytextractor.model.YTMedia;
+import ytextractor.model.YTSubtitles;
+import ytextractor.model.YoutubeMeta;
 
 /**
  * FlutterYoutubeExtractorPlugin
@@ -38,7 +42,7 @@ public class FlutterYoutubeExtractorPlugin implements MethodCallHandler {
     public void onMethodCall(MethodCall call, Result result) {
         if (call.method.equals("getYoutubeMediaLink")) {
             String youtubeLink = (String) call.arguments;
-            new YouTubeExtractor(this.context) {
+            /*new YouTubeExtractor(this.context) {
                 @Override
                 public void onExtractionComplete(SparseArray<YtFile> ytFiles, VideoMeta vMeta) {
                     if (ytFiles != null) {
@@ -75,8 +79,53 @@ public class FlutterYoutubeExtractorPlugin implements MethodCallHandler {
                         nativeChannel.invokeMethod("receiveYoutubeMediaLink", mediaLink);
                     }
                 }
-            }.extract(youtubeLink, true, true);
+            }.extract(youtubeLink, true, true);*/
+            try {
+                final Uri uri = Uri.parse(youtubeLink);
+                final String id = uri.getQueryParameter("v");
+                Log.d("YoutubeExtractor", "uri: " + uri + ", id: " + id);
+                YoutubeStreamExtractor youtubeStreamExtractor = new YoutubeStreamExtractor(new YoutubeStreamExtractor.ExtractorListner() {
+                    @Override
+                    public void onExtractionDone(List<YTMedia> adativeStream, final List<YTMedia> muxedStream, List<YTSubtitles> subtitles, YoutubeMeta meta) {
+                        //url to get subtitle
+                        if (subtitles != null && !subtitles.isEmpty()) {
+                            String subUrl = subtitles.get(0).getBaseUrl();
+                        }
+                        if (adativeStream != null && !adativeStream.isEmpty()) {
+                            String videoUrl = "";
+                            int height = 0;
+                            for (YTMedia media : adativeStream) {
+                                if (media.isVideo()) {
+                                    //is video
+                                    //find the largest
+                                    if (media.getHeight() > height) {
+                                        height = media.getHeight();
+                                        videoUrl = media.getUrl();
+                                    }
+                                } else {
+                                    //is audio
+                                }
+                            }
+                            Log.d("YoutubeExtractor", height + "p" + ", videoUrl: " + videoUrl);
+                            if (videoUrl != null && !videoUrl.isEmpty()) {
+                                nativeChannel.invokeMethod("receiveYoutubeMediaLink", videoUrl);
+                            }
+                        }
+                    }
 
+                    @Override
+                    public void onExtractionGoesWrong(final ExtractorException e) {
+                        Log.d("YoutubeExtractor", e.getMessage());
+                    }
+                });
+                youtubeStreamExtractor.useDefaultLogin();
+                youtubeStreamExtractor.Extract(id);//url to get subtitle
+//is video
+//find the largest
+//is audio
+            } catch (Exception e) {
+                e.printStackTrace();
+            }
         } else {
             result.notImplemented();
         }

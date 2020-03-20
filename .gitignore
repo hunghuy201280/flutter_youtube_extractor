@@ -5,3 +5,5 @@ android/gradlew.bat
 *.iml
 *.lock
 .idea
+.dart_tool
+android/gradle

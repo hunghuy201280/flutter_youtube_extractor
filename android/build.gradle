@@ -24,16 +24,18 @@ rootProject.allprojects {
 apply plugin: 'com.android.library'
 
 android {
-    compileSdkVersion 27
+    compileSdkVersion 28
 
     defaultConfig {
         minSdkVersion 16
-        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+        testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
     lintOptions {
         disable 'InvalidPackage'
     }
     dependencies{
-        implementation 'com.github.HaarigerHarald:android-youtubeExtractor:v1.8.0'
+        implementation 'com.google.code.gson:gson:2.8.5'
+        implementation 'com.linsea:universalvideoview:1.1.0@aar'
+        implementation  'org.mozilla:rhino:1.7R4'
     }
 }
