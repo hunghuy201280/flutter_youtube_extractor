@@ -1,16 +1,16 @@
 package io.fluttervn.flutteryoutubeextractor;
 
-import android.content.Context;
 import android.net.Uri;
+import androidx.annotation.NonNull;
 import android.util.Log;
 
 import java.util.List;
 
+import io.flutter.embedding.engine.plugins.FlutterPlugin;
 import io.flutter.plugin.common.MethodCall;
 import io.flutter.plugin.common.MethodChannel;
 import io.flutter.plugin.common.MethodChannel.MethodCallHandler;
 import io.flutter.plugin.common.MethodChannel.Result;
-import io.flutter.plugin.common.PluginRegistry.Registrar;
 import ytextractor.ExtractorException;
 import ytextractor.YoutubeStreamExtractor;
 import ytextractor.model.YTMedia;
@@ -20,22 +20,18 @@ import ytextractor.model.YoutubeMeta;
 /**
  * FlutterYoutubeExtractorPlugin
  */
-public class FlutterYoutubeExtractorPlugin implements MethodCallHandler {
-    private Context context;
-    private final MethodChannel nativeChannel;
+public class FlutterYoutubeExtractorPlugin implements FlutterPlugin, MethodCallHandler {
+    private MethodChannel nativeChannel;
 
-    public FlutterYoutubeExtractorPlugin(Context context, MethodChannel nativeChannel) {
-        this.context = context;
-        this.nativeChannel = nativeChannel;
+    @Override
+    public void onAttachedToEngine(@NonNull FlutterPluginBinding binding) {
+        this.nativeChannel = new MethodChannel(binding.getBinaryMessenger(), "flutter.youtube.extractor/native");
         this.nativeChannel.setMethodCallHandler(this);
     }
 
-    /**
-     * Plugin registration.
-     */
-    public static void registerWith(Registrar registrar) {
-        final MethodChannel channel = new MethodChannel(registrar.messenger(), "flutter.youtube.extractor/native");
-        channel.setMethodCallHandler(new FlutterYoutubeExtractorPlugin(registrar.activeContext(), channel));
+    @Override
+    public void onDetachedFromEngine(@NonNull FlutterPluginBinding binding) {
+        this.nativeChannel.setMethodCallHandler(null);
     }
 
     @Override
