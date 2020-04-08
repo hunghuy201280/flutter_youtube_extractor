@@ -13,5 +13,11 @@ dependencies:
 
 flutter:
   plugin:
-    androidPackage: io.fluttervn.flutteryoutubeextractor
-    pluginClass: FlutterYoutubeExtractorPlugin
+    platforms:
+      android:
+        androidX: true
+        package: io.fluttervn.flutteryoutubeextractor
+        pluginClass: FlutterYoutubeExtractorPlugin
+      ios:
+        pluginClass: FlutterYoutubeExtractorPlugin
+
