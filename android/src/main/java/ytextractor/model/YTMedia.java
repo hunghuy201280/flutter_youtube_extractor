@@ -1,217 +1,183 @@
 package ytextractor.model;
 
-public class YTMedia
-{
-	int itag;
-	String mimeType;
-	int bitrate;
-	int width;
-	int height;
-	double lastModified;
-	double contentLength;
-	String quality;
-	String qualityLabel;
-	String projectionType;
-	double averageBitrate;
-	double approxDurationMs;
-	int audioChannels;
-	int audioSampleRate;
-	String cipher;
-	String audioQuality;
-	String url;
-	int fps;
-	boolean isVideo;
+import com.google.gson.annotations.SerializedName;
 
-	
-	public boolean isVideo() {
-		return getMimeType().contains("video");
-	}
-	
-	public void setFps(int fps) {
-		this.fps = fps;
-	}
-
-	public int getFps() {
-		return fps;
-	}
-	
-	
+public class YTMedia {
+    int itag;
+    String mimeType;
+    int bitrate;
+    int width;
+    int height;
+    double lastModified;
+    double contentLength;
+    String quality;
+    String qualityLabel;
+    String projectionType;
+    double averageBitrate;
+    double approxDurationMs;
+    int audioChannels;
+    int audioSampleRate;
+    @SerializedName(value = "cipher", alternate = {"signatureCipher"})
+    public String cipher;
+    String audioQuality;
+    String url;
+    int fps;
+    boolean isVideo;
 
 
-	public void setItag(int itag)
-	{
-		this.itag = itag;
-	}
+    public boolean isVideo() {
+        return getMimeType().contains("video");
+    }
 
-	public int getItag()
-	{
-		return itag;
-	}
+    public void setFps(int fps) {
+        this.fps = fps;
+    }
 
-	public void setMimeType(String mimeType)
-	{
-		this.mimeType = mimeType;
-	}
+    public int getFps() {
+        return fps;
+    }
 
-	public String getMimeType()
-	{
-		return mimeType;
-	}
 
-	public void setBitrate(int bitrate)
-	{
-		this.bitrate = bitrate;
-	}
+    public void setItag(int itag) {
+        this.itag = itag;
+    }
 
-	public int getBitrate()
-	{
-		return bitrate;
-	}
+    public int getItag() {
+        return itag;
+    }
 
-	public void setWidth(int width)
-	{
-		this.width = width;
-	}
+    public void setMimeType(String mimeType) {
+        this.mimeType = mimeType;
+    }
 
-	public int getWidth()
-	{
-		return width;
-	}
+    public String getMimeType() {
+        return mimeType;
+    }
 
-	public void setHeight(int height)
-	{
-		this.height = height;
-	}
+    public void setBitrate(int bitrate) {
+        this.bitrate = bitrate;
+    }
 
-	public int getHeight()
-	{
-		return height;
-	}
+    public int getBitrate() {
+        return bitrate;
+    }
 
-	public void setLastModified(double lastModified)
-	{
-		this.lastModified = lastModified;
-	}
+    public void setWidth(int width) {
+        this.width = width;
+    }
 
-	public double getLastModified()
-	{
-		return lastModified;
-	}
+    public int getWidth() {
+        return width;
+    }
 
-	public void setContentLength(double contentLength)
-	{
-		this.contentLength = contentLength;
-	}
+    public void setHeight(int height) {
+        this.height = height;
+    }
 
-	public double getContentLength()
-	{
-		return contentLength;
-	}
+    public int getHeight() {
+        return height;
+    }
 
-	public void setQuality(String quality)
-	{
-		this.quality = quality;
-	}
+    public void setLastModified(double lastModified) {
+        this.lastModified = lastModified;
+    }
 
-	public String getQuality()
-	{
-		return quality;
-	}
+    public double getLastModified() {
+        return lastModified;
+    }
 
-	public void setQualityLabel(String qualityLabel)
-	{
-		this.qualityLabel = qualityLabel;
-	}
+    public void setContentLength(double contentLength) {
+        this.contentLength = contentLength;
+    }
 
-	public String getQualityLabel()
-	{
-		return qualityLabel;
-	}
+    public double getContentLength() {
+        return contentLength;
+    }
 
-	public void setProjectionType(String projectionType)
-	{
-		this.projectionType = projectionType;
-	}
+    public void setQuality(String quality) {
+        this.quality = quality;
+    }
 
-	public String getProjectionType()
-	{
-		return projectionType;
-	}
+    public String getQuality() {
+        return quality;
+    }
 
-	public void setAverageBitrate(double averageBitrate)
-	{
-		this.averageBitrate = averageBitrate;
-	}
+    public void setQualityLabel(String qualityLabel) {
+        this.qualityLabel = qualityLabel;
+    }
 
-	public double getAverageBitrate()
-	{
-		return averageBitrate;
-	}
+    public String getQualityLabel() {
+        return qualityLabel;
+    }
 
-	public void setApproxDurationMs(double approxDurationMs)
-	{
-		this.approxDurationMs = approxDurationMs;
-	}
+    public void setProjectionType(String projectionType) {
+        this.projectionType = projectionType;
+    }
 
-	public double getApproxDurationMs()
-	{
-		return approxDurationMs;
-	}
+    public String getProjectionType() {
+        return projectionType;
+    }
 
-	public void setAudioChannels(int audioChannels)
-	{
-		this.audioChannels = audioChannels;
-	}
+    public void setAverageBitrate(double averageBitrate) {
+        this.averageBitrate = averageBitrate;
+    }
 
-	public int getAudioChannels()
-	{
-		return audioChannels;
-	}
+    public double getAverageBitrate() {
+        return averageBitrate;
+    }
 
-	public void setAudioSampleRate(int audioSampleRate)
-	{
-		this.audioSampleRate = audioSampleRate;
-	}
+    public void setApproxDurationMs(double approxDurationMs) {
+        this.approxDurationMs = approxDurationMs;
+    }
 
-	public int getAudioSampleRate()
-	{
-		return audioSampleRate;
-	}
+    public double getApproxDurationMs() {
+        return approxDurationMs;
+    }
 
-	public void setCipher(String cipher)
-	{
-		this.cipher = cipher;
-	}
+    public void setAudioChannels(int audioChannels) {
+        this.audioChannels = audioChannels;
+    }
 
-	public String getCipher()
-	{
-		return cipher;
-	}
+    public int getAudioChannels() {
+        return audioChannels;
+    }
 
-	public void setAudioQuality(String audioQuality)
-	{
-		this.audioQuality = audioQuality;
-	}
+    public void setAudioSampleRate(int audioSampleRate) {
+        this.audioSampleRate = audioSampleRate;
+    }
 
-	public String getAudioQuality()
-	{
-		return audioQuality;
-	}
+    public int getAudioSampleRate() {
+        return audioSampleRate;
+    }
 
-	public void setUrl(String url)
-	{
-		this.url = url;
-	}
+    public void setCipher(String cipher) {
+        this.cipher = cipher;
+    }
 
-	public String getUrl()
-	{
-		return url;
-	}
-	
-	public boolean useCipher(){
-		
-		return (cipher!=null && cipher.contains("s="));
-		
-	}
-	
+//    public String getCipher() {
+//        return cipher;
+//    }
+
+    public void setAudioQuality(String audioQuality) {
+        this.audioQuality = audioQuality;
+    }
+
+    public String getAudioQuality() {
+        return audioQuality;
+    }
+
+    public void setUrl(String url) {
+        this.url = url;
+    }
+
+    public String getUrl() {
+        return url;
+    }
+
+    public boolean useCipher() {
+
+        return (cipher != null && cipher.contains("s="));
+
+    }
+
 }

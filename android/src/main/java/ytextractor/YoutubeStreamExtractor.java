@@ -165,12 +165,12 @@ public class YoutubeStreamExtractor extends AsyncTask<String,Void,Void> {
 		try {
 			for (int x=0;x < rawMedia.length;x++) {
 				YTMedia media=rawMedia[x];
-				LogUtils.log(media.getCipher() != null ? media.getCipher(): "null cip");
+				LogUtils.log(media.cipher != null ? media.cipher: "null cip");
 
 				if (media.useCipher()) {
 					String tempUrl = "";
 					String decodedSig = "";
-					for (String partCipher:media.getCipher().split("&")) {
+					for (String partCipher:media.cipher.split("&")) {
 
 
 
