@@ -1,0 +1,1837 @@
+{
+  "responseContext": {
+    "serviceTrackingParams": [
+      {
+        "service": "GFEEDBACK",
+        "params": [
+          {
+            "key": "is_viewed_live",
+            "value": "False"
+          },
+          {
+            "key": "logged_in",
+            "value": "0"
+          },
+          {
+            "key": "country-type",
+            "value": "B"
+          },
+          {
+            "key": "e",
+            "value": "23834232,23797973,23858564,23899697,23862582,23874051,23903983,23862065,23910216,23895139,23886777,23913085,23882125,23887007,23881484,23892983,23900854,23901904,23837886,23912382,23853114,23859025,24650111,23900789,23841299,23871729,23897295,23839597,23865206,23862294,23902292,23908060,23909747,23902054,23906705,45170005,23900839,23890891,23901968,23908963,23768776,23896704,23861905,23884593,39320689,23854352,23910775,1714258,23903046,23834813,23897127,23908360,23882140,23891345,23857970,23842638,23832002,23910755,23888210,23876128,23882111,23907080,23891856,23869527,23897257,23709532,23833239,23871217,23905520,23836115,23899299,23874337,23909259,23907818,23896443,9473371,23862025,23885487,23887808,23755966,23844769,9473400,23907595,23902484,23790586,23898320,23794339,23882502,23904051,23861666,23789385,23861263,23884386,23909192,23910759,23884997,23860859,9466592,23882437,23804281,23874940,23872595,23882883,23857950,23877770,23890721,23897262,23898470,24303619,23880323,23912241,23907697,23906712,23888133,23744176,23908413,23869558,23882130,23854276,23882555,23894440,23898728,23907737,23912260,23811985,23912253,23884697,23879125,23885639,23894533,23866661,23842233,23890680,23891845,23874981,23890076,23913419,23895498,23880619,23895275,23841635,23907436,23816681,23906782,23908062,23895174,23904156,23913361,9473376,23885293"
+          }
+        ]
+      },
+      {
+        "service": "CSI",
+        "params": [
+          {
+            "key": "yt_ad",
+            "value": "1"
+          },
+          {
+            "key": "c",
+            "value": "WEB"
+          },
+          {
+            "key": "cver",
+            "value": "2.20200609.04.01"
+          },
+          {
+            "key": "yt_li",
+            "value": "0"
+          },
+          {
+            "key": "GetPlayer_rid",
+            "value": "0x5ae56e5ce8bf41d3"
+          }
+        ]
+      },
+      {
+        "service": "GUIDED_HELP",
+        "params": [
+          {
+            "key": "logged_in",
+            "value": "0"
+          }
+        ]
+      },
+      {
+        "service": "ECATCHER",
+        "params": [
+          {
+            "key": "client.version",
+            "value": "2.20200609"
+          },
+          {
+            "key": "client.name",
+            "value": "WEB"
+          }
+        ]
+      }
+    ],
+    "webResponseContextExtensionData": {
+      "hasDecorated": true
+    }
+  },
+  "playabilityStatus": {
+    "status": "OK",
+    "playableInEmbed": true,
+    "miniplayer": {
+      "miniplayerRenderer": {
+        "playbackMode": "PLAYBACK_MODE_ALLOW"
+      }
+    },
+    "contextParams": "Q0FFU0FnZ0M="
+  },
+  "streamingData": {
+    "expiresInSeconds": "21540",
+    "formats": [
+      {
+        "itag": 18,
+        "mimeType": "video\/mp4; codecs=\\"
+        avc1.42001E,
+        mp4a.40.2
+        \
+        \
+        "",
+        "bitrate": 385541,
+        "width": 640,
+        "height": 360,
+        "lastModified": "1500611546591531",
+        "contentLength": "16890580",
+        "quality": "medium",
+        "fps": 25,
+        "qualityLabel": "360p",
+        "projectionType": "RECTANGULAR",
+        "averageBitrate": 385488,
+        "audioQuality": "AUDIO_QUALITY_LOW",
+        "approxDurationMs": "350528",
+        "audioSampleRate": "44100",
+        "audioChannels": 2,
+        "signatureCipher": "s=%3DE-sHxIuKZozOaXdUYEOMj1Qsg2LffeTdlBUg2R61Pn7AEiANl6Zhf7lJCeJpNYmLSr-Thf5IsP55DfjPfTa8-bXyBMAhIgAw8JQ0qORPORPO\\u0026sp=sig\\u0026url=https:\/\/r3---sn-42u-nbosz.googlevideo.com\/videoplayback%3Fexpire%3D1591881306%26ei%3D-tnhXoi5LNXkrQT9kZHABA%26ip%3D111.65.255.136%26id%3Do-APQksItFsA3BbGKyWDsVwqFYSkkp9CSDKLu86IgkHVAY%26itag%3D18%26source%3Dyoutube%26requiressl%3Dyes%26mh%3DpG%26mm%3D31%252C26%26mn%3Dsn-42u-nbosz%252Csn-npoe7nlz%26ms%3Dau%252Conr%26mv%3Dm%26mvi%3D2%26pl%3D24%26initcwndbps%3D806250%26vprv%3D1%26mime%3Dvideo%252Fmp4%26gir%3Dyes%26clen%3D16890580%26ratebypass%3Dyes%26dur%3D350.528%26lmt%3D1500611546591531%26mt%3D1591859618%26fvip%3D3%26beids%3D9466586%26c%3DWEB%26sparams%3Dexpire%252Cei%252Cip%252Cid%252Citag%252Csource%252Crequiressl%252Cvprv%252Cmime%252Cgir%252Cclen%252Cratebypass%252Cdur%252Clmt%26lsparams%3Dmh%252Cmm%252Cmn%252Cms%252Cmv%252Cmvi%252Cpl%252Cinitcwndbps%26lsig%3DAG3C_xAwRAIgaM13HufsfG1TbMNbhB3aHlhK1AOa7I7l5QUzaQjQA3ICIHKw14nhoaCeUxIGZ3_Kxtzcm361s7hxEdZMGP-8z0Bt"
+      },
+      {
+        "itag": 22,
+        "mimeType": "video\/mp4; codecs=\\"
+        avc1.64001F,
+        mp4a.40.2
+        \
+        \
+        "",
+        "bitrate": 657237,
+        "width": 1280,
+        "height": 720,
+        "lastModified": "1500611623585128",
+        "quality": "hd720",
+        "fps": 25,
+        "qualityLabel": "720p",
+        "projectionType": "RECTANGULAR",
+        "audioQuality": "AUDIO_QUALITY_MEDIUM",
+        "approxDurationMs": "350528",
+        "audioSampleRate": "44100",
+        "audioChannels": 2,
+        "signatureCipher": "s=%3D%3Dg65Et_zJmZ-DN9jbil3TiCKwwFX_ZrxF-Vw6RWkza86CQIC8O0QN1RFH8kbNo94Y7pDdvlySaytfuetftY2EMLBlvDgIQAw8JQ0qORUORUO\\u0026sp=sig\\u0026url=https:\/\/r3---sn-42u-nbosz.googlevideo.com\/videoplayback%3Fexpire%3D1591881306%26ei%3D-tnhXoi5LNXkrQT9kZHABA%26ip%3D111.65.255.136%26id%3Do-APQksItFsA3BbGKyWDsVwqFYSkkp9CSDKLu86IgkHVAY%26itag%3D22%26source%3Dyoutube%26requiressl%3Dyes%26mh%3DpG%26mm%3D31%252C26%26mn%3Dsn-42u-nbosz%252Csn-npoe7nlz%26ms%3Dau%252Conr%26mv%3Dm%26mvi%3D2%26pl%3D24%26initcwndbps%3D806250%26vprv%3D1%26mime%3Dvideo%252Fmp4%26ratebypass%3Dyes%26dur%3D350.528%26lmt%3D1500611623585128%26mt%3D1591859618%26fvip%3D3%26beids%3D9466586%26c%3DWEB%26sparams%3Dexpire%252Cei%252Cip%252Cid%252Citag%252Csource%252Crequiressl%252Cvprv%252Cmime%252Cratebypass%252Cdur%252Clmt%26lsparams%3Dmh%252Cmm%252Cmn%252Cms%252Cmv%252Cmvi%252Cpl%252Cinitcwndbps%26lsig%3DAG3C_xAwRQIgBN9c2uIMNZgvnuxwyXwBkDHNR524Y4iNkdG3CEmX-5ICIQDfBtE_UXXl2hU3qJaUUVoJdlueD-9vAXO8ZqLk2RM9bg%253D%253D"
+      }
+    ],
+    "adaptiveFormats": [
+      {
+        "itag": 137,
+        "mimeType": "video\/mp4; codecs=\\"
+        avc1.640028
+        \
+        \
+        "",
+        "bitrate": 4317231,
+        "width": 1920,
+        "height": 1080,
+        "initRange": {
+          "start": "0",
+          "end": "714"
+        },
+        "indexRange": {
+          "start": "715",
+          "end": "1574"
+        },
+        "lastModified": "1500611544181340",
+        "contentLength": "83886270",
+        "quality": "hd1080",
+        "fps": 25,
+        "qualityLabel": "1080p",
+        "projectionType": "RECTANGULAR",
+        "averageBitrate": 1914774,
+        "approxDurationMs": "350480",
+        "signatureCipher": "s=%3D%3DQWXwDlwKGIiyOD01EcBseIE3GTJP73Pm55SNROdJJ-2BiAEZdzJuX_QQXRxMxzi3TNMIVLh3iqcPTweznJwprJU8IAhIQAw8JQ0qORMORMO\\u0026sp=sig\\u0026url=https:\/\/r3---sn-42u-nbosz.googlevideo.com\/videoplayback%3Fexpire%3D1591881306%26ei%3D-tnhXoi5LNXkrQT9kZHABA%26ip%3D111.65.255.136%26id%3Do-APQksItFsA3BbGKyWDsVwqFYSkkp9CSDKLu86IgkHVAY%26itag%3D137%26aitags%3D133%252C134%252C135%252C136%252C137%252C160%252C242%252C243%252C244%252C247%252C248%252C278%26source%3Dyoutube%26requiressl%3Dyes%26mh%3DpG%26mm%3D31%252C26%26mn%3Dsn-42u-nbosz%252Csn-npoe7nlz%26ms%3Dau%252Conr%26mv%3Dm%26mvi%3D2%26pl%3D24%26initcwndbps%3D806250%26vprv%3D1%26mime%3Dvideo%252Fmp4%26gir%3Dyes%26clen%3D83886270%26dur%3D350.480%26lmt%3D1500611544181340%26mt%3D1591859618%26fvip%3D3%26keepalive%3Dyes%26beids%3D9466586%26c%3DWEB%26sparams%3Dexpire%252Cei%252Cip%252Cid%252Caitags%252Csource%252Crequiressl%252Cvprv%252Cmime%252Cgir%252Cclen%252Cdur%252Clmt%26lsparams%3Dmh%252Cmm%252Cmn%252Cms%252Cmv%252Cmvi%252Cpl%252Cinitcwndbps%26lsig%3DAG3C_xAwRQIgImqrLgtJIVXNwus07HXtKU1ZprB4lp_uOy0z_MGPbT8CIQCfDsJY_MTSkrKvzPrx-XpL2I-gAwU4s4czRE9vgKbXVQ%253D%253D"
+      },
+      {
+        "itag": 248,
+        "mimeType": "video\/webm; codecs=\\"
+        vp9
+        \
+        \
+        "",
+        "bitrate": 2602832,
+        "width": 1920,
+        "height": 1080,
+        "initRange": {
+          "start": "0",
+          "end": "242"
+        },
+        "indexRange": {
+          "start": "243",
+          "end": "1448"
+        },
+        "lastModified": "1500613710937307",
+        "contentLength": "49738096",
+        "quality": "hd1080",
+        "fps": 25,
+        "qualityLabel": "1080p",
+        "projectionType": "RECTANGULAR",
+        "averageBitrate": 1135443,
+        "approxDurationMs": "350440",
+        "signatureCipher": "s=%3D%3DgKHeBIoKsHQEQkA6FxyQBywBdYc3A7Zxtuy5R9P9VSECQICQ8UQKuD7vzLGIm9LFVKF8DAzkn65_xkLasjxFnjhbsbgIQAw8JQ0qOReOReO\\u0026sp=sig\\u0026url=https:\/\/r3---sn-42u-nbosz.googlevideo.com\/videoplayback%3Fexpire%3D1591881306%26ei%3D-tnhXoi5LNXkrQT9kZHABA%26ip%3D111.65.255.136%26id%3Do-APQksItFsA3BbGKyWDsVwqFYSkkp9CSDKLu86IgkHVAY%26itag%3D248%26aitags%3D133%252C134%252C135%252C136%252C137%252C160%252C242%252C243%252C244%252C247%252C248%252C278%26source%3Dyoutube%26requiressl%3Dyes%26mh%3DpG%26mm%3D31%252C26%26mn%3Dsn-42u-nbosz%252Csn-npoe7nlz%26ms%3Dau%252Conr%26mv%3Dm%26mvi%3D2%26pl%3D24%26initcwndbps%3D806250%26vprv%3D1%26mime%3Dvideo%252Fwebm%26gir%3Dyes%26clen%3D49738096%26dur%3D350.440%26lmt%3D1500613710937307%26mt%3D1591859618%26fvip%3D3%26keepalive%3Dyes%26beids%3D9466586%26c%3DWEB%26sparams%3Dexpire%252Cei%252Cip%252Cid%252Caitags%252Csource%252Crequiressl%252Cvprv%252Cmime%252Cgir%252Cclen%252Cdur%252Clmt%26lsparams%3Dmh%252Cmm%252Cmn%252Cms%252Cmv%252Cmvi%252Cpl%252Cinitcwndbps%26lsig%3DAG3C_xAwRAIgdhx-Mis2QaRiFZJhWav-Q8wsh283T84vLEDb9tNZcbwCIG_QE7K0eYX37bxD5cBooAQJ01pl4kt3_40VTg2KdM5L"
+      },
+      {
+        "itag": 136,
+        "mimeType": "video\/mp4; codecs=\\"
+        avc1.4d401f
+        \
+        \
+        "",
+        "bitrate": 1537128,
+        "width": 1280,
+        "height": 720,
+        "initRange": {
+          "start": "0",
+          "end": "713"
+        },
+        "indexRange": {
+          "start": "714",
+          "end": "1573"
+        },
+        "lastModified": "1500611550926740",
+        "contentLength": "23252382",
+        "quality": "hd720",
+        "fps": 25,
+        "qualityLabel": "720p",
+        "projectionType": "RECTANGULAR",
+        "averageBitrate": 530755,
+        "approxDurationMs": "350480",
+        "signatureCipher": "s=%3DMH1zaS5j8AcPNbb30OzTHDCXjoy5io_JgpzzrRBfY9sAEiAdb3zro9UwSyAJppDJgndP593x5zVCOnL4oRowVlNTkOAhIgAw8JQ0qORPORPO\\u0026sp=sig\\u0026url=https:\/\/r3---sn-42u-nbosz.googlevideo.com\/videoplayback%3Fexpire%3D1591881306%26ei%3D-tnhXoi5LNXkrQT9kZHABA%26ip%3D111.65.255.136%26id%3Do-APQksItFsA3BbGKyWDsVwqFYSkkp9CSDKLu86IgkHVAY%26itag%3D136%26aitags%3D133%252C134%252C135%252C136%252C137%252C160%252C242%252C243%252C244%252C247%252C248%252C278%26source%3Dyoutube%26requiressl%3Dyes%26mh%3DpG%26mm%3D31%252C26%26mn%3Dsn-42u-nbosz%252Csn-npoe7nlz%26ms%3Dau%252Conr%26mv%3Dm%26mvi%3D2%26pl%3D24%26initcwndbps%3D806250%26vprv%3D1%26mime%3Dvideo%252Fmp4%26gir%3Dyes%26clen%3D23252382%26dur%3D350.480%26lmt%3D1500611550926740%26mt%3D1591859618%26fvip%3D3%26keepalive%3Dyes%26beids%3D9466586%26c%3DWEB%26sparams%3Dexpire%252Cei%252Cip%252Cid%252Caitags%252Csource%252Crequiressl%252Cvprv%252Cmime%252Cgir%252Cclen%252Cdur%252Clmt%26lsparams%3Dmh%252Cmm%252Cmn%252Cms%252Cmv%252Cmvi%252Cpl%252Cinitcwndbps%26lsig%3DAG3C_xAwRgIhAKAYgvcwAsgZSgSSRFzVVojZuNuyhy8RD2VIlOQ33XdMAiEAyy2MCQweS_PvrCgQMlRIeyQENFQcgobG9jZt35GethU%253D"
+      },
+      {
+        "itag": 247,
+        "mimeType": "video\/webm; codecs=\\"
+        vp9
+        \
+        \
+        "",
+        "bitrate": 1426542,
+        "width": 1280,
+        "height": 720,
+        "initRange": {
+          "start": "0",
+          "end": "242"
+        },
+        "indexRange": {
+          "start": "243",
+          "end": "1424"
+        },
+        "lastModified": "1500613920980692",
+        "contentLength": "26537330",
+        "quality": "hd720",
+        "fps": 25,
+        "qualityLabel": "720p",
+        "projectionType": "RECTANGULAR",
+        "averageBitrate": 605805,
+        "approxDurationMs": "350440",
+        "signatureCipher": "s=%3DAcQcWeVm66GK_O3CMs3EBp-OVKaNolT6pzkHVRwrg1sAEiAAFe1NzModhC_lZyqXLNUQCI-fssLlS127At04ZtjqxNAhIgAw8JQ0qORoORoO\\u0026sp=sig\\u0026url=https:\/\/r3---sn-42u-nbosz.googlevideo.com\/videoplayback%3Fexpire%3D1591881306%26ei%3D-tnhXoi5LNXkrQT9kZHABA%26ip%3D111.65.255.136%26id%3Do-APQksItFsA3BbGKyWDsVwqFYSkkp9CSDKLu86IgkHVAY%26itag%3D247%26aitags%3D133%252C134%252C135%252C136%252C137%252C160%252C242%252C243%252C244%252C247%252C248%252C278%26source%3Dyoutube%26requiressl%3Dyes%26mh%3DpG%26mm%3D31%252C26%26mn%3Dsn-42u-nbosz%252Csn-npoe7nlz%26ms%3Dau%252Conr%26mv%3Dm%26mvi%3D2%26pl%3D24%26initcwndbps%3D806250%26vprv%3D1%26mime%3Dvideo%252Fwebm%26gir%3Dyes%26clen%3D26537330%26dur%3D350.440%26lmt%3D1500613920980692%26mt%3D1591859618%26fvip%3D3%26keepalive%3Dyes%26beids%3D9466586%26c%3DWEB%26sparams%3Dexpire%252Cei%252Cip%252Cid%252Caitags%252Csource%252Crequiressl%252Cvprv%252Cmime%252Cgir%252Cclen%252Cdur%252Clmt%26lsparams%3Dmh%252Cmm%252Cmn%252Cms%252Cmv%252Cmvi%252Cpl%252Cinitcwndbps%26lsig%3DAG3C_xAwRQIhAL4Info7jNNAoXFEovzadgrh8VlBydKgdNzBvgAOi5XmAiA1FTvuzk247Yo93RKjY_PI93A9jwLczSYi5vg2nqfYpQ%253D%253D"
+      },
+      {
+        "itag": 135,
+        "mimeType": "video\/mp4; codecs=\\"
+        avc1.4d401e
+        \
+        \
+        "",
+        "bitrate": 889264,
+        "width": 854,
+        "height": 480,
+        "initRange": {
+          "start": "0",
+          "end": "714"
+        },
+        "indexRange": {
+          "start": "715",
+          "end": "1574"
+        },
+        "lastModified": "1500611550821281",
+        "contentLength": "12765181",
+        "quality": "large",
+        "fps": 25,
+        "qualityLabel": "480p",
+        "projectionType": "RECTANGULAR",
+        "averageBitrate": 291375,
+        "approxDurationMs": "350480",
+        "signatureCipher": "s=%3D%3Dw2qYUv7EmFFl_lSb8IWyz5oIzglfqey8JodPRbIDOcJBiA_-s57ElAq_oX0Rb8lpy5dHLcEDEnYbyraNpmCz1vkBKAhIQAw8JQ0qORlORlO\\u0026sp=sig\\u0026url=https:\/\/r3---sn-42u-nbosz.googlevideo.com\/videoplayback%3Fexpire%3D1591881306%26ei%3D-tnhXoi5LNXkrQT9kZHABA%26ip%3D111.65.255.136%26id%3Do-APQksItFsA3BbGKyWDsVwqFYSkkp9CSDKLu86IgkHVAY%26itag%3D135%26aitags%3D133%252C134%252C135%252C136%252C137%252C160%252C242%252C243%252C244%252C247%252C248%252C278%26source%3Dyoutube%26requiressl%3Dyes%26mh%3DpG%26mm%3D31%252C26%26mn%3Dsn-42u-nbosz%252Csn-npoe7nlz%26ms%3Dau%252Conr%26mv%3Dm%26mvi%3D2%26pl%3D24%26initcwndbps%3D806250%26vprv%3D1%26mime%3Dvideo%252Fmp4%26gir%3Dyes%26clen%3D12765181%26dur%3D350.480%26lmt%3D1500611550821281%26mt%3D1591859618%26fvip%3D3%26keepalive%3Dyes%26beids%3D9466586%26c%3DWEB%26sparams%3Dexpire%252Cei%252Cip%252Cid%252Caitags%252Csource%252Crequiressl%252Cvprv%252Cmime%252Cgir%252Cclen%252Cdur%252Clmt%26lsparams%3Dmh%252Cmm%252Cmn%252Cms%252Cmv%252Cmvi%252Cpl%252Cinitcwndbps%26lsig%3DAG3C_xAwRAIgBHPPw-k038Y135FW4xGCaFRKgCsBGL91BJlY3mHxvfUCIDo5obsubvCiAfdIck2A64n7lPj4u3hvmllNQFb7oGsW"
+      },
+      {
+        "itag": 244,
+        "mimeType": "video\/webm; codecs=\\"
+        vp9
+        \
+        \
+        "",
+        "bitrate": 728650,
+        "width": 854,
+        "height": 480,
+        "initRange": {
+          "start": "0",
+          "end": "242"
+        },
+        "indexRange": {
+          "start": "243",
+          "end": "1406"
+        },
+        "lastModified": "1500613921292155",
+        "contentLength": "14114191",
+        "quality": "large",
+        "fps": 25,
+        "qualityLabel": "480p",
+        "projectionType": "RECTANGULAR",
+        "averageBitrate": 322205,
+        "approxDurationMs": "350440",
+        "signatureCipher": "s=vHAneuOj0-oWzf4o6FWQcUlhhZcyGE1lssRWe1RioEHIC8V-y_s45x5zaPIXtKfFoDm5EfXdhvBxdShXcp8pBnOagIAAw8JQ0qOR7OR7O\\u0026sp=sig\\u0026url=https:\/\/r3---sn-42u-nbosz.googlevideo.com\/videoplayback%3Fexpire%3D1591881306%26ei%3D-tnhXoi5LNXkrQT9kZHABA%26ip%3D111.65.255.136%26id%3Do-APQksItFsA3BbGKyWDsVwqFYSkkp9CSDKLu86IgkHVAY%26itag%3D244%26aitags%3D133%252C134%252C135%252C136%252C137%252C160%252C242%252C243%252C244%252C247%252C248%252C278%26source%3Dyoutube%26requiressl%3Dyes%26mh%3DpG%26mm%3D31%252C26%26mn%3Dsn-42u-nbosz%252Csn-npoe7nlz%26ms%3Dau%252Conr%26mv%3Dm%26mvi%3D2%26pl%3D24%26initcwndbps%3D806250%26vprv%3D1%26mime%3Dvideo%252Fwebm%26gir%3Dyes%26clen%3D14114191%26dur%3D350.440%26lmt%3D1500613921292155%26mt%3D1591859618%26fvip%3D3%26keepalive%3Dyes%26beids%3D9466586%26c%3DWEB%26sparams%3Dexpire%252Cei%252Cip%252Cid%252Caitags%252Csource%252Crequiressl%252Cvprv%252Cmime%252Cgir%252Cclen%252Cdur%252Clmt%26lsparams%3Dmh%252Cmm%252Cmn%252Cms%252Cmv%252Cmvi%252Cpl%252Cinitcwndbps%26lsig%3DAG3C_xAwRQIhAM5tvrC_n1bEGv9jCc2F7MV2vf6gqzSygwFsUT_ymc4SAiBHzfLPv5SGLIxa0gzQjeMdGrVotrCBuYaoS4rZG61y6Q%253D%253D"
+      },
+      {
+        "itag": 134,
+        "mimeType": "video\/mp4; codecs=\\"
+        avc1.4d401e
+        \
+        \
+        "",
+        "bitrate": 493581,
+        "width": 640,
+        "height": 360,
+        "initRange": {
+          "start": "0",
+          "end": "714"
+        },
+        "indexRange": {
+          "start": "715",
+          "end": "1574"
+        },
+        "lastModified": "1500611550717298",
+        "contentLength": "6868114",
+        "quality": "medium",
+        "fps": 25,
+        "qualityLabel": "360p",
+        "projectionType": "RECTANGULAR",
+        "averageBitrate": 156770,
+        "highReplication": true,
+        "approxDurationMs": "350480",
+        "signatureCipher": "s=R312OFA9rwW2xcNjoF7akSlwEKLeyUghx-RyLRzDx6CICw13DInFD58chCIqOYvLpbZ8VC5CWNhLR2xxkcKh6_HRgIAAw8JQ0qORbORbO\\u0026sp=sig\\u0026url=https:\/\/r3---sn-42u-nbosz.googlevideo.com\/videoplayback%3Fexpire%3D1591881306%26ei%3D-tnhXoi5LNXkrQT9kZHABA%26ip%3D111.65.255.136%26id%3Do-APQksItFsA3BbGKyWDsVwqFYSkkp9CSDKLu86IgkHVAY%26itag%3D134%26aitags%3D133%252C134%252C135%252C136%252C137%252C160%252C242%252C243%252C244%252C247%252C248%252C278%26source%3Dyoutube%26requiressl%3Dyes%26mh%3DpG%26mm%3D31%252C26%26mn%3Dsn-42u-nbosz%252Csn-npoe7nlz%26ms%3Dau%252Conr%26mv%3Dm%26mvi%3D2%26pl%3D24%26initcwndbps%3D806250%26vprv%3D1%26mime%3Dvideo%252Fmp4%26gir%3Dyes%26clen%3D6868114%26dur%3D350.480%26lmt%3D1500611550717298%26mt%3D1591859618%26fvip%3D3%26keepalive%3Dyes%26beids%3D9466586%26c%3DWEB%26sparams%3Dexpire%252Cei%252Cip%252Cid%252Caitags%252Csource%252Crequiressl%252Cvprv%252Cmime%252Cgir%252Cclen%252Cdur%252Clmt%26lsparams%3Dmh%252Cmm%252Cmn%252Cms%252Cmv%252Cmvi%252Cpl%252Cinitcwndbps%26lsig%3DAG3C_xAwRgIhAJyAz9J1GCYw5FbBA0NseTMWMDZuKSYFBArskqV0J-LVAiEA-QIdqA2bGBoBa-fPNCwthHIKoCOChwF6Hlpjj3qLMFk%253D"
+      },
+      {
+        "itag": 243,
+        "mimeType": "video\/webm; codecs=\\"
+        vp9
+        \
+        \
+        "",
+        "bitrate": 433803,
+        "width": 640,
+        "height": 360,
+        "initRange": {
+          "start": "0",
+          "end": "242"
+        },
+        "indexRange": {
+          "start": "243",
+          "end": "1406"
+        },
+        "lastModified": "1500613926642500",
+        "contentLength": "8816985",
+        "quality": "medium",
+        "fps": 25,
+        "qualityLabel": "360p",
+        "projectionType": "RECTANGULAR",
+        "averageBitrate": 201278,
+        "approxDurationMs": "350440",
+        "signatureCipher": "s=%3D%3DASQRJm78wjhbHIDPT8elkP-hc9eJi5ymL5r7RDedjKcBiAurtZJwAT_kmL51YLCCEFhSfYDW_qFgjRtwuz5ZQ7sLLAhIQAw8JQ0qORsORsO\\u0026sp=sig\\u0026url=https:\/\/r3---sn-42u-nbosz.googlevideo.com\/videoplayback%3Fexpire%3D1591881306%26ei%3D-tnhXoi5LNXkrQT9kZHABA%26ip%3D111.65.255.136%26id%3Do-APQksItFsA3BbGKyWDsVwqFYSkkp9CSDKLu86IgkHVAY%26itag%3D243%26aitags%3D133%252C134%252C135%252C136%252C137%252C160%252C242%252C243%252C244%252C247%252C248%252C278%26source%3Dyoutube%26requiressl%3Dyes%26mh%3DpG%26mm%3D31%252C26%26mn%3Dsn-42u-nbosz%252Csn-npoe7nlz%26ms%3Dau%252Conr%26mv%3Dm%26mvi%3D2%26pl%3D24%26initcwndbps%3D806250%26vprv%3D1%26mime%3Dvideo%252Fwebm%26gir%3Dyes%26clen%3D8816985%26dur%3D350.440%26lmt%3D1500613926642500%26mt%3D1591859618%26fvip%3D3%26keepalive%3Dyes%26beids%3D9466586%26c%3DWEB%26sparams%3Dexpire%252Cei%252Cip%252Cid%252Caitags%252Csource%252Crequiressl%252Cvprv%252Cmime%252Cgir%252Cclen%252Cdur%252Clmt%26lsparams%3Dmh%252Cmm%252Cmn%252Cms%252Cmv%252Cmvi%252Cpl%252Cinitcwndbps%26lsig%3DAG3C_xAwRgIhAI8J3L42pkuk0LVPW2yQULsdoX-7d7kYM7hrazhcA1RGAiEA2ncJAShawPVEJN-mnAV-TSllUhrEssGAnMLOBD0Rz6Q%253D"
+      },
+      {
+        "itag": 133,
+        "mimeType": "video\/mp4; codecs=\\"
+        avc1.4d4015
+        \
+        \
+        "",
+        "bitrate": 248204,
+        "width": 426,
+        "height": 240,
+        "initRange": {
+          "start": "0",
+          "end": "713"
+        },
+        "indexRange": {
+          "start": "714",
+          "end": "1573"
+        },
+        "lastModified": "1500611550928554",
+        "contentLength": "4559573",
+        "quality": "small",
+        "fps": 25,
+        "qualityLabel": "240p",
+        "projectionType": "RECTANGULAR",
+        "averageBitrate": 104076,
+        "approxDurationMs": "350480",
+        "signatureCipher": "s=QY3oeM4mlPZBWnBSvZJsnu6eZbfN7cSoLCRhH9A3fdDICMjG6oK1rtcC6vSdyajVLRAJSolOEJncyL9DfDz-WgKPgIAAw8JQ0qORfORfO\\u0026sp=sig\\u0026url=https:\/\/r3---sn-42u-nbosz.googlevideo.com\/videoplayback%3Fexpire%3D1591881306%26ei%3D-tnhXoi5LNXkrQT9kZHABA%26ip%3D111.65.255.136%26id%3Do-APQksItFsA3BbGKyWDsVwqFYSkkp9CSDKLu86IgkHVAY%26itag%3D133%26aitags%3D133%252C134%252C135%252C136%252C137%252C160%252C242%252C243%252C244%252C247%252C248%252C278%26source%3Dyoutube%26requiressl%3Dyes%26mh%3DpG%26mm%3D31%252C26%26mn%3Dsn-42u-nbosz%252Csn-npoe7nlz%26ms%3Dau%252Conr%26mv%3Dm%26mvi%3D2%26pl%3D24%26initcwndbps%3D806250%26vprv%3D1%26mime%3Dvideo%252Fmp4%26gir%3Dyes%26clen%3D4559573%26dur%3D350.480%26lmt%3D1500611550928554%26mt%3D1591859618%26fvip%3D3%26keepalive%3Dyes%26beids%3D9466586%26c%3DWEB%26sparams%3Dexpire%252Cei%252Cip%252Cid%252Caitags%252Csource%252Crequiressl%252Cvprv%252Cmime%252Cgir%252Cclen%252Cdur%252Clmt%26lsparams%3Dmh%252Cmm%252Cmn%252Cms%252Cmv%252Cmvi%252Cpl%252Cinitcwndbps%26lsig%3DAG3C_xAwRAIgZ2YpJiiEqzLIxoKSnh1ifXhaBWJPZa6-wHAq94wEAr8CICiQymyYLBjdMvAcGibglKjxfadK63GoqaxhVtgoAj6P"
+      },
+      {
+        "itag": 242,
+        "mimeType": "video\/webm; codecs=\\"
+        vp9
+        \
+        \
+        "",
+        "bitrate": 242207,
+        "width": 426,
+        "height": 240,
+        "initRange": {
+          "start": "0",
+          "end": "241"
+        },
+        "indexRange": {
+          "start": "242",
+          "end": "1405"
+        },
+        "lastModified": "1500613919227184",
+        "contentLength": "4837447",
+        "quality": "small",
+        "fps": 25,
+        "qualityLabel": "240p",
+        "projectionType": "RECTANGULAR",
+        "averageBitrate": 110431,
+        "approxDurationMs": "350440",
+        "signatureCipher": "s=%3D%3DgMQqF-_JqScpVMGZ26fuFXkKKw5d1YpS2d97R8PhlQ-DQIC8X5xaJL_wlybgFRc3eqFdHUgScELBLdaRI555IHG-FWgIQAw8JQ0qOR6OR6O\\u0026sp=sig\\u0026url=https:\/\/r3---sn-42u-nbosz.googlevideo.com\/videoplayback%3Fexpire%3D1591881306%26ei%3D-tnhXoi5LNXkrQT9kZHABA%26ip%3D111.65.255.136%26id%3Do-APQksItFsA3BbGKyWDsVwqFYSkkp9CSDKLu86IgkHVAY%26itag%3D242%26aitags%3D133%252C134%252C135%252C136%252C137%252C160%252C242%252C243%252C244%252C247%252C248%252C278%26source%3Dyoutube%26requiressl%3Dyes%26mh%3DpG%26mm%3D31%252C26%26mn%3Dsn-42u-nbosz%252Csn-npoe7nlz%26ms%3Dau%252Conr%26mv%3Dm%26mvi%3D2%26pl%3D24%26initcwndbps%3D806250%26vprv%3D1%26mime%3Dvideo%252Fwebm%26gir%3Dyes%26clen%3D4837447%26dur%3D350.440%26lmt%3D1500613919227184%26mt%3D1591859618%26fvip%3D3%26keepalive%3Dyes%26beids%3D9466586%26c%3DWEB%26sparams%3Dexpire%252Cei%252Cip%252Cid%252Caitags%252Csource%252Crequiressl%252Cvprv%252Cmime%252Cgir%252Cclen%252Cdur%252Clmt%26lsparams%3Dmh%252Cmm%252Cmn%252Cms%252Cmv%252Cmvi%252Cpl%252Cinitcwndbps%26lsig%3DAG3C_xAwRQIgKmbDLRUXzocZ2N0SRVj3PvbfvQCaqkB98AVPmL1cDroCIQCmfuDFrTsA60EUDzx-3h8OK7KpRkkmhVuEIpYG2pPT8w%253D%253D"
+      },
+      {
+        "itag": 160,
+        "mimeType": "video\/mp4; codecs=\\"
+        avc1.4d400c
+        \
+        \
+        "",
+        "bitrate": 111065,
+        "width": 256,
+        "height": 144,
+        "initRange": {
+          "start": "0",
+          "end": "712"
+        },
+        "indexRange": {
+          "start": "713",
+          "end": "1572"
+        },
+        "lastModified": "1500611550530676",
+        "contentLength": "2257551",
+        "quality": "tiny",
+        "fps": 25,
+        "qualityLabel": "144p",
+        "projectionType": "RECTANGULAR",
+        "averageBitrate": 51530,
+        "approxDurationMs": "350480",
+        "signatureCipher": "s=%3D4amkGTViGx83cNtRcwu_4I_oRd6XHkHPr9P8YRjcN00AEiAX--bHuaJy5OtttOzjOOYG0Q2Q46gevJR65Hx0APRYBIAhIgAw8JQ0qORuORuO\\u0026sp=sig\\u0026url=https:\/\/r3---sn-42u-nbosz.googlevideo.com\/videoplayback%3Fexpire%3D1591881306%26ei%3D-tnhXoi5LNXkrQT9kZHABA%26ip%3D111.65.255.136%26id%3Do-APQksItFsA3BbGKyWDsVwqFYSkkp9CSDKLu86IgkHVAY%26itag%3D160%26aitags%3D133%252C134%252C135%252C136%252C137%252C160%252C242%252C243%252C244%252C247%252C248%252C278%26source%3Dyoutube%26requiressl%3Dyes%26mh%3DpG%26mm%3D31%252C26%26mn%3Dsn-42u-nbosz%252Csn-npoe7nlz%26ms%3Dau%252Conr%26mv%3Dm%26mvi%3D2%26pl%3D24%26initcwndbps%3D806250%26vprv%3D1%26mime%3Dvideo%252Fmp4%26gir%3Dyes%26clen%3D2257551%26dur%3D350.480%26lmt%3D1500611550530676%26mt%3D1591859618%26fvip%3D3%26keepalive%3Dyes%26beids%3D9466586%26c%3DWEB%26sparams%3Dexpire%252Cei%252Cip%252Cid%252Caitags%252Csource%252Crequiressl%252Cvprv%252Cmime%252Cgir%252Cclen%252Cdur%252Clmt%26lsparams%3Dmh%252Cmm%252Cmn%252Cms%252Cmv%252Cmvi%252Cpl%252Cinitcwndbps%26lsig%3DAG3C_xAwRQIgYqQtTVffwAyN58IcuWPWBOvPbY0SfyilYgzhUwHRsccCIQCTCtKyuR-RJ5qOCr1NrU6sM8EIYEW-4pqewMzSAmhftw%253D%253D"
+      },
+      {
+        "itag": 278,
+        "mimeType": "video\/webm; codecs=\\"
+        vp9
+        \
+        \
+        "",
+        "bitrate": 111490,
+        "width": 256,
+        "height": 144,
+        "initRange": {
+          "start": "0",
+          "end": "241"
+        },
+        "indexRange": {
+          "start": "242",
+          "end": "1404"
+        },
+        "lastModified": "1500613925967319",
+        "contentLength": "3234395",
+        "quality": "tiny",
+        "fps": 25,
+        "qualityLabel": "144p",
+        "projectionType": "RECTANGULAR",
+        "averageBitrate": 73836,
+        "approxDurationMs": "350440",
+        "signatureCipher": "s=%3D%3DAXGbKxO9YRQalyucfIhHWP-fs_u_gRYUBM9PR4JB8sJAiA7Rs_BRsjT_d98D3aRq11ft4tBOvPBHg4iStZdSXh-cNAhIQAw8JQ0qORQORQO\\u0026sp=sig\\u0026url=https:\/\/r3---sn-42u-nbosz.googlevideo.com\/videoplayback%3Fexpire%3D1591881306%26ei%3D-tnhXoi5LNXkrQT9kZHABA%26ip%3D111.65.255.136%26id%3Do-APQksItFsA3BbGKyWDsVwqFYSkkp9CSDKLu86IgkHVAY%26itag%3D278%26aitags%3D133%252C134%252C135%252C136%252C137%252C160%252C242%252C243%252C244%252C247%252C248%252C278%26source%3Dyoutube%26requiressl%3Dyes%26mh%3DpG%26mm%3D31%252C26%26mn%3Dsn-42u-nbosz%252Csn-npoe7nlz%26ms%3Dau%252Conr%26mv%3Dm%26mvi%3D2%26pl%3D24%26initcwndbps%3D806250%26vprv%3D1%26mime%3Dvideo%252Fwebm%26gir%3Dyes%26clen%3D3234395%26dur%3D350.440%26lmt%3D1500613925967319%26mt%3D1591859618%26fvip%3D3%26keepalive%3Dyes%26beids%3D9466586%26c%3DWEB%26sparams%3Dexpire%252Cei%252Cip%252Cid%252Caitags%252Csource%252Crequiressl%252Cvprv%252Cmime%252Cgir%252Cclen%252Cdur%252Clmt%26lsparams%3Dmh%252Cmm%252Cmn%252Cms%252Cmv%252Cmvi%252Cpl%252Cinitcwndbps%26lsig%3DAG3C_xAwRgIhAM7BYNn2yiUQo5wj6K9w1aSAbBmMdit4pR9WOjC0afcSAiEAoyzM4QWkkdQ5J_PAFioy85OyMH3GzPmw_ttlPjAWvhE%253D"
+      },
+      {
+        "itag": 140,
+        "mimeType": "audio\/mp4; codecs=\\"
+        mp4a.40.2
+        \
+        \
+        "",
+        "bitrate": 128117,
+        "initRange": {
+          "start": "0",
+          "end": "591"
+        },
+        "indexRange": {
+          "start": "592",
+          "end": "1055"
+        },
+        "lastModified": "1500611560151619",
+        "contentLength": "5567966",
+        "quality": "tiny",
+        "projectionType": "RECTANGULAR",
+        "averageBitrate": 127076,
+        "highReplication": true,
+        "audioQuality": "AUDIO_QUALITY_MEDIUM",
+        "approxDurationMs": "350528",
+        "audioSampleRate": "44100",
+        "audioChannels": 2,
+        "signatureCipher": "s=GEWsq5XQ6Y7IuMoT83-Ym2MTcy48NS1scvRdGyYxPuBIC8LuwJ4sKs0ViayP1k2Y2Bqcns0LOCwIWGsZmHX_4P_UgIAAw8JQ0qORKORKO\\u0026sp=sig\\u0026url=https:\/\/r3---sn-42u-nbosz.googlevideo.com\/videoplayback%3Fexpire%3D1591881306%26ei%3D-tnhXoi5LNXkrQT9kZHABA%26ip%3D111.65.255.136%26id%3Do-APQksItFsA3BbGKyWDsVwqFYSkkp9CSDKLu86IgkHVAY%26itag%3D140%26source%3Dyoutube%26requiressl%3Dyes%26mh%3DpG%26mm%3D31%252C26%26mn%3Dsn-42u-nbosz%252Csn-npoe7nlz%26ms%3Dau%252Conr%26mv%3Dm%26mvi%3D2%26pl%3D24%26initcwndbps%3D806250%26vprv%3D1%26mime%3Daudio%252Fmp4%26gir%3Dyes%26clen%3D5567966%26dur%3D350.528%26lmt%3D1500611560151619%26mt%3D1591859618%26fvip%3D3%26keepalive%3Dyes%26beids%3D9466586%26c%3DWEB%26sparams%3Dexpire%252Cei%252Cip%252Cid%252Citag%252Csource%252Crequiressl%252Cvprv%252Cmime%252Cgir%252Cclen%252Cdur%252Clmt%26lsparams%3Dmh%252Cmm%252Cmn%252Cms%252Cmv%252Cmvi%252Cpl%252Cinitcwndbps%26lsig%3DAG3C_xAwRAIgWBJI0r1XYqppe59r4k4U7_XnsQMGv1cg7imz-aDxbQICIDacd_nRAzrfjvbQvoHM22DoAwBwstbCtZTqYIa_NF8f"
+      },
+      {
+        "itag": 249,
+        "mimeType": "audio\/webm; codecs=\\"
+        opus
+        \
+        \
+        "",
+        "bitrate": 64084,
+        "initRange": {
+          "start": "0",
+          "end": "271"
+        },
+        "indexRange": {
+          "start": "272",
+          "end": "880"
+        },
+        "lastModified": "1500613505310949",
+        "contentLength": "2341897",
+        "quality": "tiny",
+        "projectionType": "RECTANGULAR",
+        "averageBitrate": 53455,
+        "audioQuality": "AUDIO_QUALITY_LOW",
+        "approxDurationMs": "350481",
+        "audioSampleRate": "48000",
+        "audioChannels": 2,
+        "signatureCipher": "s=LF0CJqtqxmhSzvbSmuOo9fhNRKALHlIr2dRf9EHGOXHIC0SFvQJB_12EPhRadPb-pss5FNk9EVZGR0mOfo8FaDXBgIAAw8JQ0qOR9OR9O\\u0026sp=sig\\u0026url=https:\/\/r3---sn-42u-nbosz.googlevideo.com\/videoplayback%3Fexpire%3D1591881306%26ei%3D-tnhXoi5LNXkrQT9kZHABA%26ip%3D111.65.255.136%26id%3Do-APQksItFsA3BbGKyWDsVwqFYSkkp9CSDKLu86IgkHVAY%26itag%3D249%26source%3Dyoutube%26requiressl%3Dyes%26mh%3DpG%26mm%3D31%252C26%26mn%3Dsn-42u-nbosz%252Csn-npoe7nlz%26ms%3Dau%252Conr%26mv%3Dm%26mvi%3D2%26pl%3D24%26initcwndbps%3D806250%26vprv%3D1%26mime%3Daudio%252Fwebm%26gir%3Dyes%26clen%3D2341897%26dur%3D350.481%26lmt%3D1500613505310949%26mt%3D1591859618%26fvip%3D3%26keepalive%3Dyes%26beids%3D9466586%26c%3DWEB%26sparams%3Dexpire%252Cei%252Cip%252Cid%252Citag%252Csource%252Crequiressl%252Cvprv%252Cmime%252Cgir%252Cclen%252Cdur%252Clmt%26lsparams%3Dmh%252Cmm%252Cmn%252Cms%252Cmv%252Cmvi%252Cpl%252Cinitcwndbps%26lsig%3DAG3C_xAwRQIgHqJNNpif3TQ-pYtT6puncRpO6enlGhWZhn7Bqik-DbMCIQDJtODV536cjHwuwB9C9wCNzFODTYk8TfUrNOJLfRL0Sg%253D%253D"
+      },
+      {
+        "itag": 250,
+        "mimeType": "audio\/webm; codecs=\\"
+        opus
+        \
+        \
+        "",
+        "bitrate": 83500,
+        "initRange": {
+          "start": "0",
+          "end": "271"
+        },
+        "indexRange": {
+          "start": "272",
+          "end": "880"
+        },
+        "lastModified": "1500613519991597",
+        "contentLength": "3091043",
+        "quality": "tiny",
+        "projectionType": "RECTANGULAR",
+        "averageBitrate": 70555,
+        "audioQuality": "AUDIO_QUALITY_LOW",
+        "approxDurationMs": "350481",
+        "audioSampleRate": "48000",
+        "audioChannels": 2,
+        "signatureCipher": "s=%3DMxxLm71LbCAhEvLwHPnq7fP2-Cn5Yem__J5PxRCOJh5AEiAKaCCFO6E2pmofA7E6ousJaFMjI8j3MY_gXvd2NoJCsLAhIgAw8JQ0qORaORaO\\u0026sp=sig\\u0026url=https:\/\/r3---sn-42u-nbosz.googlevideo.com\/videoplayback%3Fexpire%3D1591881306%26ei%3D-tnhXoi5LNXkrQT9kZHABA%26ip%3D111.65.255.136%26id%3Do-APQksItFsA3BbGKyWDsVwqFYSkkp9CSDKLu86IgkHVAY%26itag%3D250%26source%3Dyoutube%26requiressl%3Dyes%26mh%3DpG%26mm%3D31%252C26%26mn%3Dsn-42u-nbosz%252Csn-npoe7nlz%26ms%3Dau%252Conr%26mv%3Dm%26mvi%3D2%26pl%3D24%26initcwndbps%3D806250%26vprv%3D1%26mime%3Daudio%252Fwebm%26gir%3Dyes%26clen%3D3091043%26dur%3D350.481%26lmt%3D1500613519991597%26mt%3D1591859618%26fvip%3D3%26keepalive%3Dyes%26beids%3D9466586%26c%3DWEB%26sparams%3Dexpire%252Cei%252Cip%252Cid%252Citag%252Csource%252Crequiressl%252Cvprv%252Cmime%252Cgir%252Cclen%252Cdur%252Clmt%26lsparams%3Dmh%252Cmm%252Cmn%252Cms%252Cmv%252Cmvi%252Cpl%252Cinitcwndbps%26lsig%3DAG3C_xAwRgIhAL5dIlknbGGnsFRgfYL7mgEYV4yMqBXC7RAfD7pNlPbzAiEAuECWNsbNcUjp4zzvjtCjQjq1GV_a2zDDawwiHtQRsxk%253D"
+      },
+      {
+        "itag": 251,
+        "mimeType": "audio\/webm; codecs=\\"
+        opus
+        \
+        \
+        "",
+        "bitrate": 162417,
+        "initRange": {
+          "start": "0",
+          "end": "271"
+        },
+        "indexRange": {
+          "start": "272",
+          "end": "880"
+        },
+        "lastModified": "1500613501896480",
+        "contentLength": "6096445",
+        "quality": "tiny",
+        "projectionType": "RECTANGULAR",
+        "averageBitrate": 139156,
+        "audioQuality": "AUDIO_QUALITY_MEDIUM",
+        "approxDurationMs": "350481",
+        "audioSampleRate": "48000",
+        "audioChannels": 2,
+        "signatureCipher": "s=%3D%3Dwz9r8roWvK3d7A9wOvqLnghb1uoEawhDEbwMRSK2aV9CQIC09jeP8QXekYx94ZhCyE1RaL923PUTwCRnRYFwv0algegIQAw8JQ0qORSORSO\\u0026sp=sig\\u0026url=https:\/\/r3---sn-42u-nbosz.googlevideo.com\/videoplayback%3Fexpire%3D1591881306%26ei%3D-tnhXoi5LNXkrQT9kZHABA%26ip%3D111.65.255.136%26id%3Do-APQksItFsA3BbGKyWDsVwqFYSkkp9CSDKLu86IgkHVAY%26itag%3D251%26source%3Dyoutube%26requiressl%3Dyes%26mh%3DpG%26mm%3D31%252C26%26mn%3Dsn-42u-nbosz%252Csn-npoe7nlz%26ms%3Dau%252Conr%26mv%3Dm%26mvi%3D2%26pl%3D24%26initcwndbps%3D806250%26vprv%3D1%26mime%3Daudio%252Fwebm%26gir%3Dyes%26clen%3D6096445%26dur%3D350.481%26lmt%3D1500613501896480%26mt%3D1591859618%26fvip%3D3%26keepalive%3Dyes%26beids%3D9466586%26c%3DWEB%26sparams%3Dexpire%252Cei%252Cip%252Cid%252Citag%252Csource%252Crequiressl%252Cvprv%252Cmime%252Cgir%252Cclen%252Cdur%252Clmt%26lsparams%3Dmh%252Cmm%252Cmn%252Cms%252Cmv%252Cmvi%252Cpl%252Cinitcwndbps%26lsig%3DAG3C_xAwRgIhALrZqUUoYdz8ChmO2YCfCsRZjXXuGYGiKm5qgI0IgeHhAiEA_-LEPheha8wym7WcThePOjm6ANlhDbLSVqq86O9t-eA%253D"
+      }
+    ],
+    "probeUrl": "https:\/\/r6---sn-ab5szn7r.googlevideo.com\/videogoodput?id=o-AOgneUDlghnHJXh90ms__ZDzZsRH9zalldFoH7bG_YQV\\u0026source=goodput\\u0026range=0-4999\\u0026expire=1591863306\\u0026ip=111.65.255.136\\u0026ms=pm\\u0026mm=35\\u0026pl=24\\u0026nh=IgpwcjAyLmxnYTA3KgsxOTUuMi4yNC4zNw\\u0026sparams=id,source,range,expire,ip,ms,mm,pl,nh\\u0026signature=503D6090E2B9DA0C52966213C37ACF8064FFD551.2F488835A29BBF9B1977836E97C787D9001830C8\\u0026key=cms1"
+  },
+  "playerAds": [
+    {
+      "playerLegacyDesktopWatchAdsRenderer": {
+        "playerAdParams": {
+          "showContentThumbnail": true,
+          "enabledEngageTypes": "3,6,4,5,17,1"
+        },
+        "gutParams": {
+          "tag": "\\\\4061\\\\ytpwmpu"
+        },
+        "showCompanion": true,
+        "showInstream": true,
+        "useGut": true
+      }
+    }
+  ],
+  "playbackTracking": {
+    "videostatsPlaybackUrl": {
+      "baseUrl": "https:\/\/s.youtube.com\/api\/stats\/playback?cl=315587279\\u0026docid=HaYwvSrT-Ig\\u0026ei=-tnhXpvaL4rzqQGRzJioAg\\u0026fexp=1714258%2C9466592%2C23744176%2C23804281%2C23839597%2C23857950%2C23860859%2C23866661%2C23880619%2C23882502%2C23884386%2C23885487%2C23891856%2C23900839%2C23901904%2C23907595%2C23907697%2C23908963%2C23912382%2C23913085%2C23913361%2C23913419%2C24303619%2C45170005\\u0026ns=yt\\u0026plid=AAWnybhbOtZedgXN\\u0026el=detailpage\\u0026len=351\\u0026of=HavzN1lGFcYrih-0qJHu-A\\u0026vm=CAQQARgCKiAxdmJNZmdvMDBlcDlIU2JmbHhFMURuUDk2dkxUMHRDMjoyQUdiNlo4TUIwcW14Qkc4LWdJMWdVd2VQdnBzNDVra2xVZHFwWFNYMUg3WFB6eDl2Tmc"
+    },
+    "videostatsDelayplayUrl": {
+      "baseUrl": "https:\/\/s.youtube.com\/api\/stats\/delayplay?cl=315587279\\u0026docid=HaYwvSrT-Ig\\u0026ei=-tnhXpvaL4rzqQGRzJioAg\\u0026fexp=1714258%2C9466592%2C23744176%2C23804281%2C23839597%2C23857950%2C23860859%2C23866661%2C23880619%2C23882502%2C23884386%2C23885487%2C23891856%2C23900839%2C23901904%2C23907595%2C23907697%2C23908963%2C23912382%2C23913085%2C23913361%2C23913419%2C24303619%2C45170005\\u0026ns=yt\\u0026plid=AAWnybhbOtZedgXN\\u0026el=detailpage\\u0026len=351\\u0026of=HavzN1lGFcYrih-0qJHu-A\\u0026vm=CAQQARgCKiAxdmJNZmdvMDBlcDlIU2JmbHhFMURuUDk2dkxUMHRDMjoyQUdiNlo4TUIwcW14Qkc4LWdJMWdVd2VQdnBzNDVra2xVZHFwWFNYMUg3WFB6eDl2Tmc"
+    },
+    "videostatsWatchtimeUrl": {
+      "baseUrl": "https:\/\/s.youtube.com\/api\/stats\/watchtime?cl=315587279\\u0026docid=HaYwvSrT-Ig\\u0026ei=-tnhXpvaL4rzqQGRzJioAg\\u0026fexp=1714258%2C9466592%2C23744176%2C23804281%2C23839597%2C23857950%2C23860859%2C23866661%2C23880619%2C23882502%2C23884386%2C23885487%2C23891856%2C23900839%2C23901904%2C23907595%2C23907697%2C23908963%2C23912382%2C23913085%2C23913361%2C23913419%2C24303619%2C45170005\\u0026ns=yt\\u0026plid=AAWnybhbOtZedgXN\\u0026el=detailpage\\u0026len=351\\u0026of=HavzN1lGFcYrih-0qJHu-A\\u0026vm=CAQQARgCKiAxdmJNZmdvMDBlcDlIU2JmbHhFMURuUDk2dkxUMHRDMjoyQUdiNlo4TUIwcW14Qkc4LWdJMWdVd2VQdnBzNDVra2xVZHFwWFNYMUg3WFB6eDl2Tmc"
+    },
+    "ptrackingUrl": {
+      "baseUrl": "https:\/\/www.youtube.com\/ptracking?ei=-tnhXpvaL4rzqQGRzJioAg\\u0026oid=aNCy-H-uTQmEMt_ypk2GiQ\\u0026plid=AAWnybhbOtZedgXN\\u0026pltype=contentugc\\u0026ptk=youtube_single\\u0026video_id=HaYwvSrT-Ig"
+    },
+    "qoeUrl": {
+      "baseUrl": "https:\/\/s.youtube.com\/api\/stats\/qoe?cl=315587279\\u0026docid=HaYwvSrT-Ig\\u0026ei=-tnhXpvaL4rzqQGRzJioAg\\u0026event=streamingstats\\u0026fexp=1714258%2C9466592%2C23744176%2C23804281%2C23839597%2C23857950%2C23860859%2C23866661%2C23880619%2C23882502%2C23884386%2C23885487%2C23891856%2C23900839%2C23901904%2C23907595%2C23907697%2C23908963%2C23912382%2C23913085%2C23913361%2C23913419%2C24303619%2C45170005\\u0026ns=yt\\u0026plid=AAWnybhbOtZedgXN"
+    },
+    "setAwesomeUrl": {
+      "baseUrl": "https:\/\/www.youtube.com\/set_awesome?ei=-tnhXpvaL4rzqQGRzJioAg\\u0026plid=AAWnybhbOtZedgXN\\u0026video_id=HaYwvSrT-Ig",
+      "elapsedMediaTimeSeconds": 120
+    },
+    "atrUrl": {
+      "baseUrl": "https:\/\/s.youtube.com\/api\/stats\/atr?docid=HaYwvSrT-Ig\\u0026ei=-tnhXpvaL4rzqQGRzJioAg\\u0026len=351\\u0026ns=yt\\u0026plid=AAWnybhbOtZedgXN\\u0026ver=2",
+      "elapsedMediaTimeSeconds": 5
+    },
+    "youtubeRemarketingUrl": {
+      "baseUrl": "https:\/\/www.youtube.com\/pagead\/viewthroughconversion\/962985656\/?backend=innertube\\u0026cname=1\\u0026cver=2_20200609\\u0026foc_id=sYlsiaTIKYxcapupuyOirA\\u0026label=followon_view\\u0026ptype=no_rmkt\\u0026random=170712157",
+      "elapsedMediaTimeSeconds": 0
+    }
+  },
+  "captions": {
+    "playerCaptionsRenderer": {
+      "contribute": {
+        "captionsMetadataRenderer": {
+          "addSubtitlesText": {
+            "runs": [
+              {
+                "text": "Thêm phụ đề",
+                "navigationEndpoint": {
+                  "clickTrackingParams": "CAAQu2kiEwibv-vCm_npAhWKeSoKHREmBiU=",
+                  "commandMetadata": {
+                    "webCommandMetadata": {
+                      "url": "\/timedtext_video?ref=watch\\u0026v=HaYwvSrT-Ig",
+                      "rootVe": 83769
+                    }
+                  },
+                  "urlEndpoint": {
+                    "url": "\/timedtext_video?ref=watch\\u0026v=HaYwvSrT-Ig"
+                  }
+                }
+              }
+            ]
+          },
+          "noSubtitlesText": {
+            "simpleText": "Video này chưa có phụ đề."
+          },
+          "promoSubtitlesText": {
+            "simpleText": "Giúp video này tiếp cận với nhiều người hơn bằng cách đóng góp phụ đề ở ngôn ngữ của bạn."
+          }
+        }
+      }
+    },
+    "playerCaptionsTracklistRenderer": {
+      "contribute": {
+        "captionsMetadataRenderer": {
+          "addSubtitlesText": {
+            "runs": [
+              {
+                "text": "Thêm phụ đề",
+                "navigationEndpoint": {
+                  "clickTrackingParams": "CAAQu2kiEwibv-vCm_npAhWKeSoKHREmBiU=",
+                  "commandMetadata": {
+                    "webCommandMetadata": {
+                      "url": "\/timedtext_video?ref=watch\\u0026v=HaYwvSrT-Ig",
+                      "rootVe": 83769
+                    }
+                  },
+                  "urlEndpoint": {
+                    "url": "\/timedtext_video?ref=watch\\u0026v=HaYwvSrT-Ig"
+                  }
+                }
+              }
+            ]
+          },
+          "noSubtitlesText": {
+            "simpleText": "Video này chưa có phụ đề."
+          },
+          "promoSubtitlesText": {
+            "simpleText": "Giúp video này tiếp cận với nhiều người hơn bằng cách đóng góp phụ đề ở ngôn ngữ của bạn."
+          }
+        }
+      }
+    }
+  },
+  "videoDetails": {
+    "videoId": "HaYwvSrT-Ig",
+    "title": "Thai Giáo Cho Mẹ Bầu - ThS. Lưu Minh Hường | [Intro - Kyna.vn]",
+    "lengthSeconds": "351",
+    "keywords": [
+      "Lưu Minh Hường",
+      "mang thai",
+      "bà bầu",
+      "thai nhi",
+      "giáo dục",
+      "làm mẹ",
+      "giáo dục cho thai nhi",
+      "lần đầu làm mẹ",
+      "thai giáo cho bà bầu",
+      "mẹ bầu",
+      "bỉm sữa",
+      "thai giáo",
+      "Dinh dưỡng cho thai nhi",
+      "Dinh dưỡng cho mẹ bầu",
+      "Thai giáo hiệu quả",
+      "Cẩm nang khi mang thai",
+      "giáo dục khi mang thai",
+      "mẹ bỉm sửa",
+      "câu hỏi khi mang thai",
+      "chăm sóc mẹ và trẻ em",
+      "bà bầu nên ăn gì",
+      "Kết nối với thai nhi",
+      "Thai giáo cho mẹ bầu",
+      "Thai giáo"
+    ],
+    "channelId": "UCsYlsiaTIKYxcapupuyOirA",
+    "isOwnerViewing": false,
+    "shortDescription": "Thai giáo: Đầu tư sớm để gặt thành quả lớn. Ở Nhật, các bà mẹ tương lai thường được khuyên nên sống trong những ngôi nhà chung tại những nơi có phong cảnh đẹp và được những người phụ nữ có chuyên môn bồi dưỡng về thẩm mỹ và âm nhạc. Tại một số nước châu Phi từ xa xưa người ta đã cho phụ nữ mang thai tập những vũ điệu chuyên dụng và các bài vận động nhịp nhàng.\\n\\nTrong khi đó, ở các nước như Mỹ, Pháp… thành lập hẳn các trường đại học đặc biệt chuyên hướng dẫn thai phụ cách giáo dục thai nhi. Thế mới thấy dù Đông hay Tây, việc dạy con từ trong bụng mẹ cũng đều được coi trọng.\\n\\nĐÓ CHÍNH LÀ THAI GIÁO.\\n\\nHay nói một cách khác, thai giáo là quá trình giáo dục với các biện pháp tổng hợp được bắt đầu từ lúc mang thai, điều chính hoàn cảnh trong và ngoài cơ thể mẹ, tránh những kích thích, ảnh hưởng không tốt, mang đến cho thai nhi những ảnh hưởng có lợi, thúc đẩy sự phát triển khỏe mạnh về thể chất và tinh thần của thai nhi, có lợi cho sự phát triển về sau.\\n--------------------------------------------------\\n\\nFollow Kyna trên YouTube: https:\/\/goo.gl\/VbpxLF\\n*\/\/\/ Nếu trong đoạn Intro khóa học có xuất hiện link liên kết, hãy click vào link để xem chi tiết khóa học bạn cần nhé! \/\/\/** \\n\\nXem thêm: https:\/\/goo.gl\/pf8dy8\\n------------------------------------------------------\\n\\nKhóa học Thai giáo cho mẹ bầu trên Kyna.vn sẽ giúp bạn:\\n- Hiểu được thế nào phương pháp thai giáo và khả năng thụ giáo của thai nhi\\n- Chăm sóc sức khỏe và dinh dưỡng thai kỳ\\n- Kết nối với thai nhi\\n- Các kiểu thai giáo: Thai giáo xúc giác, Thai giáo âm nhạc, Thai giáo xúc giác, -\\n Thai giáo ánh sáng.\\n- Những sai lầm thường gặp khi thực hành thai giáo\\n- Những điều kiêng làm khi mang thai\\n- Các kỹ năng thai giáo cho người mẹ\\n\\nKhóa học sẽ là bước chuẩn bị cần thiết cho những ai chuẩn bị hoặc đang mang thai. Bên cạnh đó, các bà mẹ và gia đình cũng có thể tìm hiểu thêm các khóa học khác trên Kyna.vn về các chủ đề dinh dưỡng cho bà bầu cũng như các phương pháp phòng chống stress tâm lý khi đang mang thai và sau khi sinh. Hãy tham gia và khám phá.\\n\\nBên cạnh các kiến thức kể trên, Kyna.vn còn đem đến cho bạn một trải nghiệm học tập vô cùng thú vị:\\n- Được học linh hoạt mọi lúc, mọi nơi trên nhiều thiết bị như máy tính, điện thoại, máy tính bảng,...\\n- Được tham gia thảo luận và đặt câu hỏi cho giảng viên không khác gì các khóa học trực tiếp.\\n- Chỉ cần thanh toán học phí một lần để sở hữu khóa học trọn đời, có thể học lại bất cứ khi nào tùy thích.\\n----------------------------------------------------------------------\\nGhé thăm website: https:\/\/kyna.vn\/\\nChannel Yotube Kyna.vn: https:\/\/goo.gl\/eBJo7k\\nFanpage: https:\/\/www.facebook.com\/kyna.vn\/\\nGoogle Plus: https:\/\/goo.gl\/SKwwGi\\n---------------------------------------------------------------------\\nKyna.vn - Học Online Cùng Chuyên Gia\\n© 2014 - Bản quyền của Công Ty Cổ Phần Dream Viet Education\\nVP Hồ Chí Minh: Lầu 6 Tòa nhà Thịnh Phát - 178\/8 Đường D1, Phường 25, Quận Bình Thạnh, TP Hồ Chí Minh \\nVP Hà Nội: Tầng 6, Tòa Nhà Viện Công Nghệ - 25 Vũ Ngọc Phan, Phường Láng Hạ, Quận Đống Đa, TP Hà Nội \\nGiấy phép ĐKKD số 0313589030 do Sở Kế hoạch và Đầu tư TPHCM cấp\\n-------------------------------------Thanks for watching--------------------------------------",
+    "isCrawlable": false,
+    "thumbnail": {
+      "thumbnails": [
+        {
+          "url": "https:\/\/i.ytimg.com\/vi\/HaYwvSrT-Ig\/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==\\u0026rs=AOn4CLCuNjDtil40DCUC9_PD25GNFl4yCA",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https:\/\/i.ytimg.com\/vi\/HaYwvSrT-Ig\/hqdefault.jpg?sqp=-oaymwEiCMQBEG5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==\\u0026rs=AOn4CLA_uQ_VkSCbx88o_FnPFhOAz3sLGw",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https:\/\/i.ytimg.com\/vi\/HaYwvSrT-Ig\/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=\\u0026rs=AOn4CLATYNonhBzI8nXktZ11Ml34d9ow1A",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https:\/\/i.ytimg.com\/vi\/HaYwvSrT-Ig\/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=\\u0026rs=AOn4CLDmyXaxotcu-uqVjrw5sd9u_FiPNg",
+          "width": 336,
+          "height": 188
+        },
+        {
+          "url": "https:\/\/i.ytimg.com\/vi\/HaYwvSrT-Ig\/maxresdefault.jpg",
+          "width": 1920,
+          "height": 1080
+        }
+      ]
+    },
+    "averageRating": 3.6666667,
+    "allowRatings": true,
+    "viewCount": "10313",
+    "author": "Kyna.vn",
+    "isPrivate": false,
+    "isUnpluggedCorpus": false,
+    "isLiveContent": false
+  },
+  "playerConfig": {
+    "audioConfig": {
+      "loudnessDb": -4.7845135,
+      "perceptualLoudnessDb": -18.784513,
+      "enablePerFormatLoudness": false
+    },
+    "streamSelectionConfig": {
+      "maxBitrate": "6450000"
+    },
+    "daiConfig": {
+      "enableServerStitchedDai": false
+    },
+    "mediaCommonConfig": {
+      "dynamicReadaheadConfig": {
+        "maxReadAheadMediaTimeMs": 120000,
+        "minReadAheadMediaTimeMs": 15000,
+        "readAheadGrowthRateMs": 1000
+      }
+    },
+    "webPlayerConfig": {
+      "webPlayerActionsPorting": {
+        "getSharePanelCommand": {
+          "clickTrackingParams": "CAAQu2kiEwibv-vCm_npAhWKeSoKHREmBiU=",
+          "commandMetadata": {
+            "webCommandMetadata": {
+              "url": "\/service_ajax",
+              "sendPost": true,
+              "apiUrl": "\/youtubei\/v1\/share\/get_web_player_share_panel"
+            }
+          },
+          "webPlayerShareEntityServiceEndpoint": {
+            "serializedShareEntity": "CgtIYVl3dlNyVC1JZw%3D%3D"
+          }
+        },
+        "subscribeCommand": {
+          "clickTrackingParams": "CAAQu2kiEwibv-vCm_npAhWKeSoKHREmBiU=",
+          "commandMetadata": {
+            "webCommandMetadata": {
+              "url": "\/service_ajax",
+              "sendPost": true,
+              "apiUrl": "\/youtubei\/v1\/subscription\/subscribe"
+            }
+          },
+          "subscribeEndpoint": {
+            "channelIds": [
+              "UCsYlsiaTIKYxcapupuyOirA"
+            ],
+            "params": "EgIIBxgA"
+          }
+        },
+        "unsubscribeCommand": {
+          "clickTrackingParams": "CAAQu2kiEwibv-vCm_npAhWKeSoKHREmBiU=",
+          "commandMetadata": {
+            "webCommandMetadata": {
+              "url": "\/service_ajax",
+              "sendPost": true,
+              "apiUrl": "\/youtubei\/v1\/subscription\/unsubscribe"
+            }
+          },
+          "unsubscribeEndpoint": {
+            "channelIds": [
+              "UCsYlsiaTIKYxcapupuyOirA"
+            ],
+            "params": "CgIIBxgA"
+          }
+        },
+        "addToWatchLaterCommand": {
+          "clickTrackingParams": "CAAQu2kiEwibv-vCm_npAhWKeSoKHREmBiU=",
+          "commandMetadata": {
+            "webCommandMetadata": {
+              "url": "\/service_ajax",
+              "sendPost": true,
+              "apiUrl": "\/youtubei\/v1\/browse\/edit_playlist"
+            }
+          },
+          "playlistEditEndpoint": {
+            "playlistId": "WL",
+            "actions": [
+              {
+                "addedVideoId": "HaYwvSrT-Ig",
+                "action": "ACTION_ADD_VIDEO"
+              }
+            ]
+          }
+        },
+        "removeFromWatchLaterCommand": {
+          "clickTrackingParams": "CAAQu2kiEwibv-vCm_npAhWKeSoKHREmBiU=",
+          "commandMetadata": {
+            "webCommandMetadata": {
+              "url": "\/service_ajax",
+              "sendPost": true,
+              "apiUrl": "\/youtubei\/v1\/browse\/edit_playlist"
+            }
+          },
+          "playlistEditEndpoint": {
+            "playlistId": "WL",
+            "actions": [
+              {
+                "action": "ACTION_REMOVE_VIDEO_BY_VIDEO_ID",
+                "removedVideoId": "HaYwvSrT-Ig"
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "storyboards": {
+    "playerStoryboardSpecRenderer": {
+      "spec": "https:\/\/i9.ytimg.com\/sb\/HaYwvSrT-Ig\/storyboard3_L$L\/$N.jpg?sqp=-oaymwECSEGi85f_AwYIzofGywU=|48#27#100#10#10#0#default#rs$AOn4CLB1Hv1D-5v0jMx0xRJFAknEr05J8Q|80#45#72#10#10#5000#M$M#rs$AOn4CLBJqPKbPiY1jvYmNlvCBUBhFwJMNQ|160#90#72#5#5#5000#M$M#rs$AOn4CLBsEE280ppxvPM850ccr3-ikhTFUQ"
+    }
+  },
+  "microformat": {
+    "playerMicroformatRenderer": {
+      "thumbnail": {
+        "thumbnails": [
+          {
+            "url": "https:\/\/i.ytimg.com\/vi\/HaYwvSrT-Ig\/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        ]
+      },
+      "embed": {
+        "iframeUrl": "https:\/\/www.youtube.com\/embed\/HaYwvSrT-Ig",
+        "flashUrl": "http:\/\/www.youtube.com\/v\/HaYwvSrT-Ig?version=3\\u0026autohide=1",
+        "width": 1280,
+        "height": 720,
+        "flashSecureUrl": "https:\/\/www.youtube.com\/v\/HaYwvSrT-Ig?version=3\\u0026autohide=1"
+      },
+      "title": {
+        "simpleText": "Thai Giáo Cho Mẹ Bầu - ThS. Lưu Minh Hường | [Intro - Kyna.vn]"
+      },
+      "description": {
+        "simpleText": "Thai giáo: Đầu tư sớm để gặt thành quả lớn. Ở Nhật, các bà mẹ tương lai thường được khuyên nên sống trong những ngôi nhà chung tại những nơi có phong cảnh đẹp và được những người phụ nữ có chuyên môn bồi dưỡng về thẩm mỹ và âm nhạc. Tại một số nước châu Phi từ xa xưa người ta đã cho phụ nữ mang thai tập những vũ điệu chuyên dụng và các bài vận động nhịp nhàng.\\n\\nTrong khi đó, ở các nước như Mỹ, Pháp… thành lập hẳn các trường đại học đặc biệt chuyên hướng dẫn thai phụ cách giáo dục thai nhi. Thế mới thấy dù Đông hay Tây, việc dạy con từ trong bụng mẹ cũng đều được coi trọng.\\n\\nĐÓ CHÍNH LÀ THAI GIÁO.\\n\\nHay nói một cách khác, thai giáo là quá trình giáo dục với các biện pháp tổng hợp được bắt đầu từ lúc mang thai, điều chính hoàn cảnh trong và ngoài cơ thể mẹ, tránh những kích thích, ảnh hưởng không tốt, mang đến cho thai nhi những ảnh hưởng có lợi, thúc đẩy sự phát triển khỏe mạnh về thể chất và tinh thần của thai nhi, có lợi cho sự phát triển về sau.\\n--------------------------------------------------\\n\\nFollow Kyna trên YouTube: https:\/\/goo.gl\/VbpxLF\\n*\/\/\/ Nếu trong đoạn Intro khóa học có xuất hiện link liên kết, hãy click vào link để xem chi tiết khóa học bạn cần nhé! \/\/\/** \\n\\nXem thêm: https:\/\/goo.gl\/pf8dy8\\n------------------------------------------------------\\n\\nKhóa học Thai giáo cho mẹ bầu trên Kyna.vn sẽ giúp bạn:\\n- Hiểu được thế nào phương pháp thai giáo và khả năng thụ giáo của thai nhi\\n- Chăm sóc sức khỏe và dinh dưỡng thai kỳ\\n- Kết nối với thai nhi\\n- Các kiểu thai giáo: Thai giáo xúc giác, Thai giáo âm nhạc, Thai giáo xúc giác, -\\n Thai giáo ánh sáng.\\n- Những sai lầm thường gặp khi thực hành thai giáo\\n- Những điều kiêng làm khi mang thai\\n- Các kỹ năng thai giáo cho người mẹ\\n\\nKhóa học sẽ là bước chuẩn bị cần thiết cho những ai chuẩn bị hoặc đang mang thai. Bên cạnh đó, các bà mẹ và gia đình cũng có thể tìm hiểu thêm các khóa học khác trên Kyna.vn về các chủ đề dinh dưỡng cho bà bầu cũng như các phương pháp phòng chống stress tâm lý khi đang mang thai và sau khi sinh. Hãy tham gia và khám phá.\\n\\nBên cạnh các kiến thức kể trên, Kyna.vn còn đem đến cho bạn một trải nghiệm học tập vô cùng thú vị:\\n- Được học linh hoạt mọi lúc, mọi nơi trên nhiều thiết bị như máy tính, điện thoại, máy tính bảng,...\\n- Được tham gia thảo luận và đặt câu hỏi cho giảng viên không khác gì các khóa học trực tiếp.\\n- Chỉ cần thanh toán học phí một lần để sở hữu khóa học trọn đời, có thể học lại bất cứ khi nào tùy thích.\\n----------------------------------------------------------------------\\nGhé thăm website: https:\/\/kyna.vn\/\\nChannel Yotube Kyna.vn: https:\/\/goo.gl\/eBJo7k\\nFanpage: https:\/\/www.facebook.com\/kyna.vn\/\\nGoogle Plus: https:\/\/goo.gl\/SKwwGi\\n---------------------------------------------------------------------\\nKyna.vn - Học Online Cùng Chuyên Gia\\n© 2014 - Bản quyền của Công Ty Cổ Phần Dream Viet Education\\nVP Hồ Chí Minh: Lầu 6 Tòa nhà Thịnh Phát - 178\/8 Đường D1, Phường 25, Quận Bình Thạnh, TP Hồ Chí Minh \\nVP Hà Nội: Tầng 6, Tòa Nhà Viện Công Nghệ - 25 Vũ Ngọc Phan, Phường Láng Hạ, Quận Đống Đa, TP Hà Nội \\nGiấy phép ĐKKD số 0313589030 do Sở Kế hoạch và Đầu tư TPHCM cấp\\n-------------------------------------Thanks for watching--------------------------------------"
+      },
+      "lengthSeconds": "351",
+      "ownerProfileUrl": "http:\/\/www.youtube.com\/user\/kynavn",
+      "externalChannelId": "UCsYlsiaTIKYxcapupuyOirA",
+      "isFamilySafe": true,
+      "availableCountries": [
+        "AD",
+        "AE",
+        "AF",
+        "AG",
+        "AI",
+        "AL",
+        "AM",
+        "AO",
+        "AQ",
+        "AR",
+        "AS",
+        "AT",
+        "AU",
+        "AW",
+        "AX",
+        "AZ",
+        "BA",
+        "BB",
+        "BD",
+        "BE",
+        "BF",
+        "BG",
+        "BH",
+        "BI",
+        "BJ",
+        "BL",
+        "BM",
+        "BN",
+        "BO",
+        "BQ",
+        "BR",
+        "BS",
+        "BT",
+        "BV",
+        "BW",
+        "BY",
+        "BZ",
+        "CA",
+        "CC",
+        "CD",
+        "CF",
+        "CG",
+        "CH",
+        "CI",
+        "CK",
+        "CL",
+        "CM",
+        "CN",
+        "CO",
+        "CR",
+        "CU",
+        "CV",
+        "CW",
+        "CX",
+        "CY",
+        "CZ",
+        "DE",
+        "DJ",
+        "DK",
+        "DM",
+        "DO",
+        "DZ",
+        "EC",
+        "EE",
+        "EG",
+        "EH",
+        "ER",
+        "ES",
+        "ET",
+        "FI",
+        "FJ",
+        "FK",
+        "FM",
+        "FO",
+        "FR",
+        "GA",
+        "GB",
+        "GD",
+        "GE",
+        "GF",
+        "GG",
+        "GH",
+        "GI",
+        "GL",
+        "GM",
+        "GN",
+        "GP",
+        "GQ",
+        "GR",
+        "GS",
+        "GT",
+        "GU",
+        "GW",
+        "GY",
+        "HK",
+        "HM",
+        "HN",
+        "HR",
+        "HT",
+        "HU",
+        "ID",
+        "IE",
+        "IL",
+        "IM",
+        "IN",
+        "IO",
+        "IQ",
+        "IR",
+        "IS",
+        "IT",
+        "JE",
+        "JM",
+        "JO",
+        "JP",
+        "KE",
+        "KG",
+        "KH",
+        "KI",
+        "KM",
+        "KN",
+        "KP",
+        "KR",
+        "KW",
+        "KY",
+        "KZ",
+        "LA",
+        "LB",
+        "LC",
+        "LI",
+        "LK",
+        "LR",
+        "LS",
+        "LT",
+        "LU",
+        "LV",
+        "LY",
+        "MA",
+        "MC",
+        "MD",
+        "ME",
+        "MF",
+        "MG",
+        "MH",
+        "MK",
+        "ML",
+        "MM",
+        "MN",
+        "MO",
+        "MP",
+        "MQ",
+        "MR",
+        "MS",
+        "MT",
+        "MU",
+        "MV",
+        "MW",
+        "MX",
+        "MY",
+        "MZ",
+        "NA",
+        "NC",
+        "NE",
+        "NF",
+        "NG",
+        "NI",
+        "NL",
+        "NO",
+        "NP",
+        "NR",
+        "NU",
+        "NZ",
+        "OM",
+        "PA",
+        "PE",
+        "PF",
+        "PG",
+        "PH",
+        "PK",
+        "PL",
+        "PM",
+        "PN",
+        "PR",
+        "PS",
+        "PT",
+        "PW",
+        "PY",
+        "QA",
+        "RE",
+        "RO",
+        "RS",
+        "RU",
+        "RW",
+        "SA",
+        "SB",
+        "SC",
+        "SD",
+        "SE",
+        "SG",
+        "SH",
+        "SI",
+        "SJ",
+        "SK",
+        "SL",
+        "SM",
+        "SN",
+        "SO",
+        "SR",
+        "SS",
+        "ST",
+        "SV",
+        "SX",
+        "SY",
+        "SZ",
+        "TC",
+        "TD",
+        "TF",
+        "TG",
+        "TH",
+        "TJ",
+        "TK",
+        "TL",
+        "TM",
+        "TN",
+        "TO",
+        "TR",
+        "TT",
+        "TV",
+        "TW",
+        "TZ",
+        "UA",
+        "UG",
+        "UM",
+        "US",
+        "UY",
+        "UZ",
+        "VA",
+        "VC",
+        "VE",
+        "VG",
+        "VI",
+        "VN",
+        "VU",
+        "WF",
+        "WS",
+        "YE",
+        "YT",
+        "ZA",
+        "ZM",
+        "ZW"
+      ],
+      "isUnlisted": true,
+      "hasYpcMetadata": false,
+      "viewCount": "10313",
+      "category": "Education",
+      "publishDate": "2017-07-20",
+      "ownerChannelName": "Kyna.vn",
+      "uploadDate": "2017-07-20"
+    }
+  },
+  "cards": {
+    "cardCollectionRenderer": {
+      "cards": [
+        {
+          "cardRenderer": {
+            "teaser": {
+              "simpleCardTeaserRenderer": {
+                "message": {
+                  "simpleText": "Tìm hiểu thêm"
+                },
+                "trackingParams": "CBYQ0DYiEwibv-vCm_npAhWKeSoKHREmBiU=",
+                "prominent": true,
+                "logVisibilityUpdates": true
+              }
+            },
+            "content": {
+              "simpleCardContentRenderer": {
+                "image": {
+                  "thumbnails": [
+                    {
+                      "url": "https:\/\/yt3.ggpht.com\/proxy\/0d2wOu_moW-6qj9WgVV1NMtcwgCU3YPAYiYDazOw636sHoXQUafwSx65S2E_To6hLg4HKfOPy2rgdcVkHMWBytQ2aF-vZJvna7Zth-QZwlpAammCshFWxkjR3s1rAezrI6H6zFBomCvIUhMbmWXk4FO1JIZHIkj9qsscaL9S-bqAepBh=-w250-h250-n-rj-c0xffffffff",
+                      "width": 250,
+                      "height": 250
+                    },
+                    {
+                      "url": "https:\/\/yt3.ggpht.com\/proxy\/0d2wOu_moW-6qj9WgVV1NMtcwgCU3YPAYiYDazOw636sHoXQUafwSx65S2E_To6hLg4HKfOPy2rgdcVkHMWBytQ2aF-vZJvna7Zth-QZwlpAammCshFWxkjR3s1rAezrI6H6zFBomCvIUhMbmWXk4FO1JIZHIkj9qsscaL9S-bqAepBh=-w400-h400-n-rj-c0xffffffff",
+                      "width": 400,
+                      "height": 400
+                    }
+                  ]
+                },
+                "title": {
+                  "simpleText": "Thai Giáo Cho Mẹ Bầu"
+                },
+                "actionButton": {
+                  "simpleCardButtonRenderer": {
+                    "text": {
+                      "simpleText": "Bạn cần biết thêm"
+                    },
+                    "action": {
+                      "clickTrackingParams": "CBUQ1jYiEwibv-vCm_npAhWKeSoKHREmBiUyBWNhcmRz",
+                      "commandMetadata": {
+                        "webCommandMetadata": {
+                          "url": "https:\/\/www.youtube.com\/redirect?event=infocard\\u0026redir_token=MVe4P1qMjhvxmtV0ny1-J3nGH5h8MTU5MTk0NjEwNkAxNTkxODU5NzA2\\u0026q=https%3A%2F%2Fkyna.vn%2Fthai-giao-cho-me-bau",
+                          "rootVe": 83769
+                        }
+                      },
+                      "urlEndpoint": {
+                        "url": "https:\/\/www.youtube.com\/redirect?event=infocard\\u0026redir_token=MVe4P1qMjhvxmtV0ny1-J3nGH5h8MTU5MTk0NjEwNkAxNTkxODU5NzA2\\u0026q=https%3A%2F%2Fkyna.vn%2Fthai-giao-cho-me-bau",
+                        "target": "TARGET_NEW_WINDOW"
+                      }
+                    },
+                    "trackingParams": "CBUQ1jYiEwibv-vCm_npAhWKeSoKHREmBiU="
+                  }
+                },
+                "trackingParams": "CBQQ1TYiEwibv-vCm_npAhWKeSoKHREmBiU=",
+                "displayDomain": {
+                  "simpleText": "kyna.vn"
+                },
+                "showLinkIcon": true,
+                "callToAction": {
+                  "simpleText": "Bạn cần biết thêm"
+                },
+                "command": {
+                  "clickTrackingParams": "CBQQ1TYiEwibv-vCm_npAhWKeSoKHREmBiUyBWNhcmRz",
+                  "commandMetadata": {
+                    "webCommandMetadata": {
+                      "url": "https:\/\/www.youtube.com\/redirect?event=infocard\\u0026redir_token=MVe4P1qMjhvxmtV0ny1-J3nGH5h8MTU5MTk0NjEwNkAxNTkxODU5NzA2\\u0026q=https%3A%2F%2Fkyna.vn%2Fthai-giao-cho-me-bau",
+                      "rootVe": 83769
+                    }
+                  },
+                  "urlEndpoint": {
+                    "url": "https:\/\/www.youtube.com\/redirect?event=infocard\\u0026redir_token=MVe4P1qMjhvxmtV0ny1-J3nGH5h8MTU5MTk0NjEwNkAxNTkxODU5NzA2\\u0026q=https%3A%2F%2Fkyna.vn%2Fthai-giao-cho-me-bau",
+                    "target": "TARGET_NEW_WINDOW"
+                  }
+                }
+              }
+            },
+            "cueRanges": [
+              {
+                "startCardActiveMs": "45195",
+                "endCardActiveMs": "50195",
+                "teaserDurationMs": "7000",
+                "iconAfterTeaserMs": "5000"
+              }
+            ],
+            "icon": {
+              "infoCardIconRenderer": {
+                "trackingParams": "CBMQsJcBIhMIm7_rwpv56QIVinkqCh0RJgYl"
+              }
+            },
+            "trackingParams": "CBIQspcBGAAiEwibv-vCm_npAhWKeSoKHREmBiU=",
+            "cardId": "6b4088d7-1352-474e-8a57-d6af0bb46ffd",
+            "feature": "cards"
+          }
+        },
+        {
+          "cardRenderer": {
+            "teaser": {
+              "simpleCardTeaserRenderer": {
+                "message": {
+                  "simpleText": "Đề xuất: Các Khóa Học Nuôi Dạy Con | [Intro - Kyna.vn]"
+                },
+                "trackingParams": "CBEQ0DYiEwibv-vCm_npAhWKeSoKHREmBiU=",
+                "prominent": true,
+                "logVisibilityUpdates": true
+              }
+            },
+            "content": {
+              "playlistInfoCardContentRenderer": {
+                "playlistThumbnail": {
+                  "thumbnails": [
+                    {
+                      "url": "https:\/\/i.ytimg.com\/vi\/AnIq_NSCSRc\/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==\\u0026rs=AOn4CLBmOWMYIdAW006t966VDXrLoPBsOA",
+                      "width": 168,
+                      "height": 94
+                    },
+                    {
+                      "url": "https:\/\/i.ytimg.com\/vi\/AnIq_NSCSRc\/hqdefault.jpg?sqp=-oaymwEiCMQBEG5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==\\u0026rs=AOn4CLC06o3IO6hObeBy5lR_yFf26DrM4A",
+                      "width": 196,
+                      "height": 110
+                    },
+                    {
+                      "url": "https:\/\/i.ytimg.com\/vi\/AnIq_NSCSRc\/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=\\u0026rs=AOn4CLCipIKWaY4kRomxq7HaXddXUmXlzw",
+                      "width": 246,
+                      "height": 138
+                    },
+                    {
+                      "url": "https:\/\/i.ytimg.com\/vi\/AnIq_NSCSRc\/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=\\u0026rs=AOn4CLAgc7RxQT1DVMaZglsDV51Vwe1QCg",
+                      "width": 336,
+                      "height": 188
+                    },
+                    {
+                      "url": "https:\/\/i.ytimg.com\/vi\/AnIq_NSCSRc\/maxresdefault.jpg",
+                      "width": 1920,
+                      "height": 1080
+                    }
+                  ]
+                },
+                "playlistVideoCount": {
+                  "simpleText": "19"
+                },
+                "playlistTitle": {
+                  "simpleText": "Các Khóa Học Nuôi Dạy Con | [Intro - Kyna.vn]"
+                },
+                "channelName": {
+                  "simpleText": "của Kyna.vn"
+                },
+                "videoCountText": {
+                  "simpleText": "19 video"
+                },
+                "action": {
+                  "clickTrackingParams": "CBAQ1TYiEwibv-vCm_npAhWKeSoKHREmBiUyBWNhcmRzSIjxz9bSl4zTHQ==",
+                  "commandMetadata": {
+                    "webCommandMetadata": {
+                      "url": "\/watch?v=AnIq_NSCSRc\\u0026list=PLMiXeEirCaaS1KcWbZgcWdyp5JVZmGz5W",
+                      "webPageType": "WEB_PAGE_TYPE_WATCH",
+                      "rootVe": 3832
+                    }
+                  },
+                  "watchEndpoint": {
+                    "videoId": "AnIq_NSCSRc",
+                    "playlistId": "PLMiXeEirCaaS1KcWbZgcWdyp5JVZmGz5W"
+                  }
+                },
+                "trackingParams": "CBAQ1TYiEwibv-vCm_npAhWKeSoKHREmBiU="
+              }
+            },
+            "cueRanges": [
+              {
+                "startCardActiveMs": "45195",
+                "endCardActiveMs": "50195",
+                "teaserDurationMs": "7000",
+                "iconAfterTeaserMs": "5000"
+              }
+            ],
+            "icon": {
+              "infoCardIconRenderer": {
+                "trackingParams": "CA8QsJcBIhMIm7_rwpv56QIVinkqCh0RJgYl"
+              }
+            },
+            "trackingParams": "CA4QupcBGAEiEwibv-vCm_npAhWKeSoKHREmBiU=",
+            "cardId": "8a8f2a02-9394-4668-9924-34e756ef13ea",
+            "feature": "cards"
+          }
+        }
+      ],
+      "headerText": {
+        "simpleText": "Từ Kyna.vn"
+      },
+      "icon": {
+        "infoCardIconRenderer": {
+          "trackingParams": "CA0QsJcBIhMIm7_rwpv56QIVinkqCh0RJgYl"
+        }
+      },
+      "closeButton": {
+        "infoCardIconRenderer": {
+          "trackingParams": "CAwQsZcBIhMIm7_rwpv56QIVinkqCh0RJgYl"
+        }
+      },
+      "trackingParams": "CAsQwjciEwibv-vCm_npAhWKeSoKHREmBiU=",
+      "allowTeaserDismiss": true,
+      "logIconVisibilityUpdates": true
+    }
+  },
+  "trackingParams": "CAAQu2kiEwibv-vCm_npAhWKeSoKHREmBiU=",
+  "attestation": {
+    "playerAttestationRenderer": {
+      "challenge": "a=5\\u0026a2=1\\u0026b=L2NsOxnKl9wUeEqtghMcYQa2TGQ\\u0026c=1591859706\\u0026d=1\\u0026e=HaYwvSrT-Ig\\u0026c3a=25\\u0026c1a=1\\u0026c6a=1\\u0026hh=SVBnzxYCJcp8D_v3cgMEt6gau29PmNTL3lao0n_sfDo",
+      "botguardData": {
+        "program": "sLBRTzIYfWja4U+rwPQWHQjShFM11lSNhEKRVNqwqELGXHInjrRrQ2Cy+zcq4V3MLvlrF206SPVjGZdM4iqQFoC8XOOYJoWLr0bFydH4nweI3Ct+LHjI\/XHKWMHB8f5udDbyUE8R9Ih6OjK8PX6GosgPOdhcGqAHfZfvH8UhF6SOFUoaRhwJdq2nF6\/JLZ3Ky2tsSBfZhF9+LQRXYwnkCtfa+Jax6BF+LZ94HDWY8itvq\/WImg3\/T+wyKEp29\/AeoXNAuOxQhPy3yQdpwGH3oqAENLhv6YG0AxKTjF3SQJ1FpivBJcKf1p07FpTf8r27yWXnsMPA7R05j5Bj0cGzyDYxe7rCPgOdm58xXGDGiqfC8U6OMkURLE8ru\/kK278pEmlTuxyPKn4Rt9WfUWndE+SERiQPHfAqxiU0TlhAKSUsRoFlj\/7U8hNqlCMc2ao+a3d0z2+79ar+acfWHhP1k1kMj9y6XjA3pYJjGcz0OUC59ryRcS9txES\/f3DxLXFUSyouSm7fT5A9H4l53cd1H6tQgNYWaJG9dE8b6E4oVGBAvVc6xWmd9u3O650bBfkZiLM8ohlA6tewPoSSn8SjbDbR49stVEqd33ELDhsOccDMdppittRcYG06VXsxJA2D44kqpiXmEmzP5+kB7lm7Kkqs3v\/F1w4ZRg20MVDE6KTdKOuXeJCE4GWU3AV1YJR8iltPIxiELwUgtmCdaVqRL\/Jq7\/7tb3lFrH1ZeQvCa6vAbpDnksx6u4RPCDRuaqlp\/By0vepzVB9X36KzDwZ95rEwF6ZV2Tk0nf74+kqf5tvUUilfNx2plh2pbKdinB9jAFIb+jdNIRSF5navDRaZM4FFFCTzKk5Re2PLVK4KZY\/ApHnPYgjMe7v6VZd\/fLlvwOWHDU1cuQJqAyIY3kVIAO4f6LutD3ol30rqCdzwHXyQTbB7a1r02A4CTA04A\/SW\/w\/qyHW4kiJAtB+FWQDOJ\/oSYB4Q2r8ZV4H6iKSwchKarF6Atq3vnF4RDWiKv92SVc6cAaEO1REtStCIEPVREQnwqlPYvlvrLSX4CfE+lSnH88FIritJ7D48XeJ6Cy5Vi6ou+oLRHAsr+91RKQN3fPUAglnO9g2\/f5a6RJCGu+Eqbgzmmm66ZvITVDS9H1SrgDgDjuOqGU7WFXWxVoUcOfzv4lLrMNj45iUPYKUoKmnyPzbWV7pHrp4bGDb6sURRLAYYoa+KHWh2DMky\/F7EyAqy2TJIidsmpC6w\/3\/V83+oZwuXxNPf+2KUtLmIXVoZnT+Kx7umFusCDc4hto7D1InGMtEiz5zoZzlWFr6iJQhQC3++qub2QVAMDaR3hzm7VbFznjvtLkgk3YcSyJV18jnJzFICaHg3BS3AY3S9O+YrPPl2a0lH6WYmq86vv49Sr+R7+yD+iKGZpd3dNaOS2FDEJvpgPsdCTmqeEPcRZVtIU8D+o8c9XT\/WCE896WERozyMjzkakxSMks1neNMItvcHAcx1kZRq4t7dLuNM7xOR6SQEvZ31+A5\/VD1dDO2BaRJ2GSPnx2PQPBrTTLDuWBx9fK0UcPcVBGpRAqki5HRAtz8XUiDvktqn6cgEOwpS6gdfsTrmBF8hu4VVIhhX8rNxjmqfR99zPojPq3JRTzF7DR6hkqeAH1rN+RSQqHZdR+ndDCkggLmO\/2dIT4Sd6qZHyxP7+\/kRa9pQFDXMA+lLayK6CcHdod0IZhatoyOxhf34js3FuwUufkLM+jQJKzd9RJ4ArgP9uSqHK5Wx2zpiapDjJi\/GAzu5FiM3uLOdCiQKVExBc6mGndkSokKsVy5\/qgC1qv38xVp6k7WVJallcjwDVb1g\/Q1AHB2nvDFPIrsY6hRxE7VhH+8\/rpkr91KR\/pkjUtWLzfH+IroaN8YlCHe8Z+9KMdgR\/8F2RokL2b4tTJJXcDey1UlV0hENGKSNPW0Mf+rbeGsd\/dBFMW88Dncf6uVKBKNIltrGEpnLhNySvUZjC4PLDJ1bgUjES\/X8Gd5\/iUMBC4fMk4viPR10np8MLKdVSYqjmDauRcEHc6oTwPbd36x1cLRCA0DFtkO407thamnM3+rGkLp71BOAq8yoSKPUNFDiaNlQ1cikNcrgylUY7nfWjIhfNINOs+pMTlQUK9EAT73SPPMS2IXt2hYd6WvBCQZZkEXGD79p6wzmMkyM5\/SrjojvwMnwwuVK1bXGScVw6i6kxkTLAmcF4Hy6o8EXpCmsZ8ZrfJQkkjfiha5NQ+8YIVjQ1STLdN1vCi4HNODP3m+Ve+T4ICDSwMnIqZ9ol\/49\/rb7VSq0t\/WL1efpTxu5wnZCyFhh6j5O9yOQkxJZgqmP+hnKF9P2zhaU9wkU1gEg+o4a9lgMNK2CSdhi5Z9L1igOB14icIodVV6BU15j48Km7TE+kXg108urceP2vNlxXKKoLxuLhnRNLkO+NS2Dt0ttgTTllwEvZwVyep49TXjtbGrgLTLI9IO60qHQh+HD90\/vlnpIgQPWIYftrVlcXQxNfUW94WCDRplBnYE7lkQyDk\/QHJLU9z\/hvV+1l3RD2QfIHyLTMd2gZYDpbrgu1GXjsWEpeB+pRyd3K+OCvaIurKBJeQywZmBnmo1UBxRVwVLsEIvoMd\/NfpXKmQSGFO7bRs0UDNQcrh5nQG6BJ2LwvNk0K1BKVKoMCEBalwuQG7+9GwqpQghI3NUuKhSeUs0OKOmMZSIhzbHiKtbw9CacRr0yfMcRieqoxcaYAohaiyNrHmh+kAaB1Qiks0qsBbVO6cAtpryykaXjAbkIelim6q+xqGlVdLSurM9A0XtAJwA+ysz0XyfvJjjAmIpUU8m9tKEqk0Po4LaPy7LiTifjxHIcD1lYSwEX7JfNrNjiO012OmUH3PFmKI9NK6nxtd5FVLebo82PKUZt0AXIaVustotSAm5GLvbuwGzJscilltguqdlhpcpTv\/JKGZ+astAvX0B5M7QOi9UX8D+d6brXke69MhZLqOC0JOfS1AEF6R1+nYX\/IzzPnWMEZYJQEELWRsWYdXMCLDgc+tSlvzE4\/PLzDB7avPbMoMrp7KNPeIjimw73LDXrGja+AAdFWndXjb\/EVt6i53Q6PYzxi9cmFG76SB429X2XxAiDpngESA3XMzUQQk76TsjoXw6EgjwZQUztrIq7RVdhO9iET9AHoas23u1+\/LYCwlQ9A\/wtJQthhanw2AWITHOkLsP5BhZMuP+3hUJYdk+MKMHoUNPO\/mmY7VdKoFESTile3slHPEk7exxJu8yfrXIZ6r\/zaTTxhBmpIdh832MpARjqHFMpwA1CHw3nLCjWUo9zi6+ZoVORKbcLHQBeyVSJeUbAnv7djXt7elsTXpogUxOEGO\/+iiPAs+ZmXRn2ijbkQ9DiO9o5T6bt7Ik7SIgoiDz\/FQR7HlDr10smtryn0OOuG2FtojOE3x3WDrEuTx2fcP5IkF6Y9dsVUJfcI6qOdIc+X7Fj4bFh9dE40Om1+Kgg\/\/p4lSrxntcIiXi\/f\/v67wt6kctZbVviW32wfn\/6wv1Afn4zUB7yfKCR37AKfgUL\/B8bc7cdEMB2fXKO2TRuzaA24ZEG0wJtDfHPQrdNt9E+6AZx5PrcFqufpPDxfP9YNUsTHHWWwdWVJjRwirM+ihMysS7RlxGv1qGPNZIBTOQBHy16vdYEnwFwFKbqLf5AeHDQnzrosNeQjJyZuqftXbEHnUW0iV\/Q4xhRKuhgP4yzvHCKduOgsEa9BTo4YyMCAN+wT\/2djA8ES\/qTwt\/wHNm0dqOC48duHXtJ59oJoRaF7fCQOKy1YWMLB46ZuD+UhrvLUv03Rs4ZD\/Un37wWQMaZ2S5Vh\/exMkXt2T10ohGJfETj0vCkxmBeBQz+33Ss57VMmmLnTw1mWWbnreSw9eNGxSpZVm7IBMUlNWlk+QlV0hEuPEzfW1rhdIvA+O+Mfnj5mH1WIzWydNiycSgUvGpKCJSbbF2L7qASgGOB+KAoLiiOAIVE87j86Mq3WiZMhN17J\/U1HxbJoSBRaTocYj4XxCSm8u2K71MxgPORCelNoNpmHLiQFPX5MowJ9eSPDxHnC5G86F5DfbFBqKO5JrMTF1jHuJg+LS5NApZLEz7G\/Bgob+BKKgh43elVSvQ8m0EEH74bRvMQCw8dzOvDw4v8QzYubNaGCIm978yDVQsHBmnES7tYPu9CJhtZf8uhshU72ic3rg03kfq3fTxSacaqpRIg4sUQUTq8\/HaeSzqm9SV6bdyPiytHIERLJhPmjQ1fZCZamiRBDQP6Xa\/H\/Z9AxRN5fdc0L9ITSZGhraAjqZxMIFCL+ApBmToGOz3Y17IRQYsY+JyCIk\/yYVeuZNDWj99FzOxyYZ20Zcy7pJmXDTHqsA\/QtPEDhpmMhJWcHnaJDRhwzSJgrFG7JFZojSfx7qexxUeJivG5agchB9Kp1HlcxINrh3v0T6SpuLeX5ni74eqDvsKR5XvdtEfDb9k1gNY45Z+s\/Zib7XYhgrn8gdIDjBUHQA4itkeYaIdycNH25JZYD\/cw2GYdwe0K3oL3M35u3s9ENK\/7E9n+WEO3+Q4YspCu395vxgolaFrKvDHEeo7JKh4Ky5aM8QH4xFRecSiLtBIc+EYU9EXTuWWcDrfLQlcUVP2vDWCTrzpYEYhwm+hINrg5jm6rkIMTz7tYIDt0qg+awcoVhGU0vFt+QAVVwD7Hne6lZqPe+9xqySAhzlIh6Qt+2uyapGKLqkOdQSvlv1faVoC+HP8ebWzRZ4Q1bw8wuluCPwueHJvJ18dJeldQ\/KrtfU\/BLgA4fKcnxI1BSzI2OqaJuTaI9ey6O4ZiGfyKyfLZB0rHt+I1TDWLCTa+VSvfpAXdegpYH2mkePomHHpKmIhiAbJpQJ4Jz3GFHc8+EMiL4tVQ2hXPU11Cy7d7vF0O1FXhJa+m9RoA9OyPrjSA\/AuQJiCeh3oVyiZoUIS+div+P8TQosHH7JXQoMVbFiOfXrdLaVNva749dP4nY+UFxtQRESWnta9IvrK9STmdjuI5NjOpCd9I623sxqz7ddv7WgSjWx7zvoCATewqxnu9s6JlS7qEIzsXGG9tWbRXPd0xx7LwFfJHi+y5aUc\/upNZgqYfbUCkxj77JW00Hc3i0wzztzGpPh\/eqIpqQm0mF0kmlTTGlgN\/3t2naLqI6a0MJ54xC4YidBpxkPxBi1fZQKHPKBNBTQIOqRCyXhir0zTGSZjhfJtG\/C4uiEiocd10ZLTNCONylvPbCXey49aNll0ni62OQw9sOXGCSptmht\/pJzg4NJ1wV431zQ+17mcnJ1g2+NEE6aBPZIiDWFJhSMGLhpd6jYo2pvuUvpywrKXAZrGPSvS0yFxrR9y1dB+3CKzd3dPUIu19J8oeKtfQ+lfmliXkyfOPRhA5RH\/YTtPYKnQq9HfBx6Dydr1UJOnwj2\/+HacQevLVHr\/vmiURimYj19bxhBbUfHWL3DYE+4XDQAGanHFWf4+VNCvMdBuxNn474avpEMRgCOAIG7eKcrDw93zcbXGRp37\/1Fem5T+G7YkL4zdaIDN9XALVQGD9mIUfCB4D2WZ4hFSf8b0Bt4KqLGwzlIzl5GEwP2q0lkE67HuOJi73eYn30JENMK\/OE4o1ou8efHfxweXUf\/DqXtFZlCRuFeRnWfEPxt9WldFUU26Cj7E6O8RRGF6KVL9XDYR1Huz1gM72m2sSkedsZcNloRYO1OOHbQR06Nz9hysWPbS7yWV+\/S0Gf2DFDW0iOGKemWH7Kn5mjWsyScGC790\/jKojKSYR9ELNpVfebMjkRUemL5Bx9jfcgjMfxkqSqqaW2Xkx\/3+EGBQ1LT04iS9mBmxPfY\/ogsBlDTJ7JRXaB\/ImLNdJw8kQ3SI30rAqmZ1ZCw4nTVk2BQCL8Ix4\/VWDEqX39GV+rmezD67rN7oVkOXK47MqMCHew08EATSX2KnSOushfuBZwCz0COI8Pblo3cjbXXNxD\/OefH0nFQ6hBoA07\/gDFZo7bNkxUcndRhNuXHBFhLeucSf9Az5ZkAjiN1LWNkZIYhv\/Te6Ris0JGCOmuui5BuA1NHTA9ExW1cYMub3HdiobyPP2+FImn36F6irSY6iKK9mdgRO6qp+y6K5AF8gFRCGoC10JuRiaZUwFsnl7sNVK7gsd5JW5BNnHYLMEWSsAgw5BSd\/j0LBAJWnK+\/MQXolSNuZ0KLO67OsP9MebzGzQux0OFWkn3eQUpec1wAJjismpgkzT1mxNp\/w+ZXp6CKIK0MB8sbEgT3bsB0YAhI7ENAfVB4QUTFTbqo+OBhLNef\/7SQ\/gJTljia9ceqcTd7ookX1HIlFJkvdDT2tnNzYZdtZH3zJsEzQFhKYRUuKjHbCSFqBzeTxennb5tKynvdGLBAfIOcBj3xQRKj+YUWHyF++\/8ZiFGbaAIC0TwyhYSRlqkkazxd69B\/09RggfMBRBghmMvDp2nnlVawI\/8g05aj93axMbrGhyMj7EUIW4fvHT6eywt0v7BpJ8+FN+Me5vKwe\/xYdDL8nfk3F0Ewjbb5jfFWOL0cyBgWx8oK9UePF3BQ5Tl7sZsvtfN4fBGFF1CctQOphsuhK1WAqFqIGmBfaL6fLKz\/Sj0OUMllU53FJ5ntVZs503H8irCL\/bEnNTLuu3+VqPOpnena0qr7Pn+i5cAbuX4s4hsAzxbkrv+Fr82R4rs7FLeJS4zTLFEN77eR2brKoWaIwOvjGb5cmAT7O3k9av7dIAa1VDmbJIk50fg2PLnfZHWpbwTktFitIYX5cTcMbYEYtCoZ2AkF3IZnh9Q2bd\/1x7MECncLdb40GCDwOHZ3UIn0M8Hw3AQEZf6np+TOAsWrN7Pt4Q6m\/ySQj6NpwPtPn7FJF7X07PGhX0sSG49Yspj4551oNpztOpbeLD+scIZc4AoWXJb9bWu60pY7bgoMiV7jYOCsmxlcHbRQngSViBP9sDbANIthSmwHnrP5Py5EC\/mtCUnaaUiycINMVMbUAPHtiMzSTV70sIrBhZMfLnoHLi4rweP\/LQafTcXj6l3zDpV+xfXf+yKbaHxGNq5CUz5ORCEzUug3gSKv2b2sYPb2HlcKG7pBBPKQyEdSYJ7eF5cnnS1Kmlq2nHVeUQAEH3nJtdyG793Re6cSZpt2QfhIFU0NZsUiKOULtWZdw6PidFI6cnN4UVJZlyOeFJCmY9fSeMdAiDhpfYqk7EahM8GgC7p6DrzcaE8A9\/Kn8Y4rpYm7JBhoYk+OWilZ1QTTBsgtMiiPWgjjKIKVoXGiQE8\/Ych38NsX2peHzXcaUDC3yPSzmPHwlhD71Lm8O9Exr5WkUxrc+tSWTHHqLoyASJC80\/GGBWhA0xxUybiQ4FLsndOdHW0l5hOsPsj0ETUM4yJ1j2kHm\/r0CtZFV3cbggx21U2HzGD1zvWIB1e3ZRLmJztt8MA3eWPcMFVTrBOV+m95iic+S4y0lifMi3bxTJh8NReAoQxXN6o+xd1AHGb\/9vPtgv5pfr\/vYz7VvYLrXl0FtthzIV4O1oHRRX\/QtxSfejAQZ428M30FrwfqHJj8ZiI7avcjgPuRv1dGvWYimrcUOX9xml\/6H2FDKwTfq7T6Vsdwr1INRZjxOlL9QRPIBbJoG1PNzw\/k1RKhEb5329\/MAQqPFv+ZHXEmYcr4NKy2AnACaKV86UKCG0plStMlc4VgQdhkZg+jr+QvW2+FXaqtnZIRgTtjagOpk6j25fahy0cRepp2\/qtDdenzY+86QkCYcwXAzCJarkR2iWGEI+WhcJD6hDLU7wZpZBVMy0hy27i1raS\/KFl0Ql19\/halNlnM1SVx56AeuMfdgQubGwKCUQBp5siHO\/J\/6oGAqq31V371zsOtImBrWmQAhgGxXGxuFAjpaa1C8XbxpRJEYXQN5GMe4WsJnvpjolvIxYzfXVr2gYl6exkBNJdREyCLErvflqO8ssF8Ew+CsjHBNAwFmfe3F+jrYjvrgK+xtlw+JTIvsWn437aMnrsXWWMGyGzUEeJY3z7HSlI88PFORLm2676KbQ6vDL9iV8AR6uaWLdCQRgQuiI8wSMpx\/78E5WGdOt58OOxf3A7hAAYA3UEvuo8EG3SY6fVvK4bdg5r7e5I\/Psl3HzwYT6JnLGr5rARBddaoClFSxbyraDN\/NQbha4AF9d+zbztXsgtye1BwXHIvIQ5\/j5WAhi4RYVu+4mF2QlvvhdToyGYRco0ZNn8BhWSaBfAj5FHszT8nUuW+Gu8\/67sHcFzeA2SYov7r\/ppDXGMdPBchWsha1PimKLrIP9kKcY3nX61Un6hG2E9kJ06LJTbOsSXOH0JCOPXrH0VgqLfcQ41YgH9IM1TL9tCl6axuvtASTymEJhMDeBRRtcuo\/QrkLHZl3DSysmTcMzUIEEdkvGeson62ugCn0baa\/bjlAaP7glkHQiYAfG1b4SwH6dne0iGGoGlYiuGgj912s1+PBSHLkQBmVWupNI2kcSatfsdCVqpIaaqxHCMp73r9FfI752\/9Xejr1QAQ\/Nelu9Y9qxZvWivzyVjYfCYjxbibz2ZyxXYReyVs5qGGn\/5z706DKMS66Qivlk4xsQH35Vk0c7XO9LxorFv\/0sD2aN8asnl3M5YHnm40tmnYQZgHuMiQeRUPBwlGxIwC1uKvL4GYqmIa9z0qJA9Zif9u1pJxYyOcB8w8ovG6F1pWM7NdIXZiOxIkasn3LoXiASUtt5BeLFYcxIGNfjnjri9Ct2cQDl6Pie2+iEUT2d1Y7uQxneNQnIdVrOldIAMfHgxv1py9pCr5rh9GGgniNZybfk0z4zmNCrZYUU8XahBZz6D5lcUyeSsuAWaKWX++6vo2LbrN4iquCIEdOgJnSjIq+zdBZh+PE1OrPhEceOuGuYvg=",
+        "interpreterUrl": "\/\/www.google.com\/js\/bg\/ZwDCigEI0__RfilXKlYCpNo9KQTswUYVabfBBpJLnQE.js"
+      }
+    }
+  },
+  "videoQualityPromoSupportedRenderers": {
+    "videoQualityPromoRenderer": {
+      "triggerCriteria": {
+        "connectionWhitelists": [
+          "WIFI"
+        ],
+        "joinLatencySeconds": 15,
+        "rebufferTimeSeconds": 10,
+        "watchTimeWindowSeconds": 180,
+        "refractorySeconds": 2592000
+      },
+      "text": {
+        "runs": [
+          {
+            "text": "Bạn đang gặp sự cố gián đoạn? "
+          },
+          {
+            "text": "Tìm hiểu nguyên nhân",
+            "bold": true
+          }
+        ]
+      },
+      "endpoint": {
+        "clickTrackingParams": "CAgQ6kUiEwibv-vCm_npAhWKeSoKHREmBiU=",
+        "commandMetadata": {
+          "webCommandMetadata": {
+            "url": "https:\/\/www.google.com\/get\/videoqualityreport\/",
+            "rootVe": 83769
+          }
+        },
+        "urlEndpoint": {
+          "url": "https:\/\/www.google.com\/get\/videoqualityreport\/",
+          "target": "TARGET_NEW_WINDOW"
+        }
+      },
+      "trackingParams": "CAgQ6kUiEwibv-vCm_npAhWKeSoKHREmBiU=",
+      "snackbar": {
+        "notificationActionRenderer": {
+          "responseText": {
+            "runs": [
+              {
+                "text": "Bạn đang gặp sự cố gián đoạn?"
+              }
+            ]
+          },
+          "actionButton": {
+            "buttonRenderer": {
+              "text": {
+                "runs": [
+                  {
+                    "text": "Tìm hiểu nguyên nhân"
+                  }
+                ]
+              },
+              "navigationEndpoint": {
+                "clickTrackingParams": "CAoQ8FsiEwibv-vCm_npAhWKeSoKHREmBiU=",
+                "commandMetadata": {
+                  "webCommandMetadata": {
+                    "url": "https:\/\/www.google.com\/get\/videoqualityreport\/?v=HaYwvSrT-Ig",
+                    "rootVe": 83769
+                  }
+                },
+                "urlEndpoint": {
+                  "url": "https:\/\/www.google.com\/get\/videoqualityreport\/?v=HaYwvSrT-Ig",
+                  "target": "TARGET_NEW_WINDOW"
+                }
+              },
+              "trackingParams": "CAoQ8FsiEwibv-vCm_npAhWKeSoKHREmBiU="
+            }
+          },
+          "trackingParams": "CAkQuWoiEwibv-vCm_npAhWKeSoKHREmBiU="
+        }
+      }
+    }
+  },
+  "endscreen": {
+    "endscreenRenderer": {
+      "elements": [
+        {
+          "endscreenElementRenderer": {
+            "style": "CHANNEL",
+            "image": {
+              "thumbnails": [
+                {
+                  "url": "https:\/\/yt3.ggpht.com\/a\/AATXAJxLIkzP299hozPQ9u82TfVyauhXnbqQVtDiMw=s250-c-k-c0x00ffffff-no-rj",
+                  "width": 250,
+                  "height": 250
+                },
+                {
+                  "url": "https:\/\/yt3.ggpht.com\/a\/AATXAJxLIkzP299hozPQ9u82TfVyauhXnbqQVtDiMw=s400-c-k-c0x00ffffff-no-rj",
+                  "width": 400,
+                  "height": 400
+                }
+              ]
+            },
+            "icon": {
+              "thumbnails": [
+                {
+                  "url": "https:\/\/www.gstatic.com\/youtube\/img\/annotations\/youtube.png"
+                }
+              ]
+            },
+            "left": 0.82280701,
+            "width": 0.15438597,
+            "top": 0.34968847,
+            "aspectRatio": 1.0,
+            "startMs": "330621",
+            "endMs": "350621",
+            "title": {
+              "accessibility": {
+                "accessibilityData": {
+                  "label": "Kyna.vn, kênh"
+                }
+              },
+              "simpleText": "Kyna.vn"
+            },
+            "metadata": {},
+            "callToAction": {
+              "simpleText": "TRUY CẬP KÊNH"
+            },
+            "dismiss": {
+              "simpleText": "HỦY"
+            },
+            "endpoint": {
+              "clickTrackingParams": "CAMQ-N4BGAAiEwibv-vCm_npAhWKeSoKHREmBiUyDGl2LWVuZHNjcmVlbkiI8c_W0peM0x0=",
+              "commandMetadata": {
+                "webCommandMetadata": {
+                  "url": "\/channel\/UCsYlsiaTIKYxcapupuyOirA",
+                  "webPageType": "WEB_PAGE_TYPE_BROWSE",
+                  "rootVe": 3611
+                }
+              },
+              "browseEndpoint": {
+                "browseId": "UCsYlsiaTIKYxcapupuyOirA"
+              }
+            },
+            "hovercardButton": {
+              "subscribeButtonRenderer": {
+                "buttonText": {
+                  "runs": [
+                    {
+                      "text": "ĐĂNG KÝ"
+                    }
+                  ]
+                },
+                "subscribed": false,
+                "enabled": true,
+                "type": "FREE",
+                "channelId": "UCsYlsiaTIKYxcapupuyOirA",
+                "showPreferences": false,
+                "subscribedButtonText": {
+                  "runs": [
+                    {
+                      "text": "ĐÃ ĐĂNG KÝ"
+                    }
+                  ]
+                },
+                "unsubscribedButtonText": {
+                  "runs": [
+                    {
+                      "text": "ĐĂNG KÝ"
+                    }
+                  ]
+                },
+                "trackingParams": "CAQQmysiEwibv-vCm_npAhWKeSoKHREmBiUyDGl2LWVuZHNjcmVlbg==",
+                "unsubscribeButtonText": {
+                  "runs": [
+                    {
+                      "text": "HỦY ĐĂNG KÝ"
+                    }
+                  ]
+                },
+                "serviceEndpoints": [
+                  {
+                    "clickTrackingParams": "CAQQmysiEwibv-vCm_npAhWKeSoKHREmBiUyDGl2LWVuZHNjcmVlbg==",
+                    "commandMetadata": {
+                      "webCommandMetadata": {
+                        "url": "\/service_ajax",
+                        "sendPost": true,
+                        "apiUrl": "\/youtubei\/v1\/subscription\/subscribe"
+                      }
+                    },
+                    "subscribeEndpoint": {
+                      "channelIds": [
+                        "UCsYlsiaTIKYxcapupuyOirA"
+                      ],
+                      "params": "EgIIBBgA"
+                    }
+                  },
+                  {
+                    "clickTrackingParams": "CAQQmysiEwibv-vCm_npAhWKeSoKHREmBiU=",
+                    "commandMetadata": {
+                      "webCommandMetadata": {
+                        "url": "\/service_ajax",
+                        "sendPost": true
+                      }
+                    },
+                    "signalServiceEndpoint": {
+                      "signal": "CLIENT_SIGNAL",
+                      "actions": [
+                        {
+                          "clickTrackingParams": "CAQQmysiEwibv-vCm_npAhWKeSoKHREmBiU=",
+                          "commandMetadata": {
+                            "webCommandMetadata": {}
+                          },
+                          "openPopupAction": {
+                            "popup": {
+                              "confirmDialogRenderer": {
+                                "trackingParams": "CAUQxjgiEwibv-vCm_npAhWKeSoKHREmBiU=",
+                                "dialogMessages": [
+                                  {
+                                    "runs": [
+                                      {
+                                        "text": "Hủy đăng ký "
+                                      },
+                                      {
+                                        "text": "Kyna.vn"
+                                      },
+                                      {
+                                        "text": "?"
+                                      }
+                                    ]
+                                  }
+                                ],
+                                "confirmButton": {
+                                  "buttonRenderer": {
+                                    "style": "STYLE_BLUE_TEXT",
+                                    "size": "SIZE_DEFAULT",
+                                    "isDisabled": false,
+                                    "text": {
+                                      "runs": [
+                                        {
+                                          "text": "Hủy đăng ký"
+                                        }
+                                      ]
+                                    },
+                                    "serviceEndpoint": {
+                                      "clickTrackingParams": "CAcQ8FsiEwibv-vCm_npAhWKeSoKHREmBiUyDGl2LWVuZHNjcmVlbg==",
+                                      "commandMetadata": {
+                                        "webCommandMetadata": {
+                                          "url": "\/service_ajax",
+                                          "sendPost": true,
+                                          "apiUrl": "\/youtubei\/v1\/subscription\/unsubscribe"
+                                        }
+                                      },
+                                      "unsubscribeEndpoint": {
+                                        "channelIds": [
+                                          "UCsYlsiaTIKYxcapupuyOirA"
+                                        ],
+                                        "params": "CgIIBBgA"
+                                      }
+                                    },
+                                    "accessibility": {
+                                      "label": "Hủy đăng ký"
+                                    },
+                                    "trackingParams": "CAcQ8FsiEwibv-vCm_npAhWKeSoKHREmBiU="
+                                  }
+                                },
+                                "cancelButton": {
+                                  "buttonRenderer": {
+                                    "style": "STYLE_TEXT",
+                                    "size": "SIZE_DEFAULT",
+                                    "isDisabled": false,
+                                    "text": {
+                                      "runs": [
+                                        {
+                                          "text": "Hủy"
+                                        }
+                                      ]
+                                    },
+                                    "accessibility": {
+                                      "label": "Hủy"
+                                    },
+                                    "trackingParams": "CAYQ8FsiEwibv-vCm_npAhWKeSoKHREmBiU="
+                                  }
+                                },
+                                "primaryIsCancel": false
+                              }
+                            },
+                            "popupType": "DIALOG"
+                          }
+                        }
+                      ]
+                    }
+                  }
+                ],
+                "subscribeAccessibility": {
+                  "accessibilityData": {
+                    "label": "Đăng ký Kyna.vn."
+                  }
+                },
+                "unsubscribeAccessibility": {
+                  "accessibilityData": {
+                    "label": "Hủy đăng ký Kyna.vn."
+                  }
+                }
+              }
+            },
+            "trackingParams": "CAMQ-N4BGAAiEwibv-vCm_npAhWKeSoKHREmBiU=",
+            "isSubscribe": true,
+            "signinEndpoint": {
+              "clickTrackingParams": "CAMQ-N4BGAAiEwibv-vCm_npAhWKeSoKHREmBiU=",
+              "commandMetadata": {
+                "webCommandMetadata": {}
+              }
+            },
+            "id": "b67fde37-0ee1-4a75-bb42-be6b053a2afc"
+          }
+        },
+        {
+          "endscreenElementRenderer": {
+            "style": "PLAYLIST",
+            "image": {
+              "thumbnails": [
+                {
+                  "url": "https:\/\/i.ytimg.com\/vi\/AnIq_NSCSRc\/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==\\u0026rs=AOn4CLBmOWMYIdAW006t966VDXrLoPBsOA",
+                  "width": 168,
+                  "height": 94
+                },
+                {
+                  "url": "https:\/\/i.ytimg.com\/vi\/AnIq_NSCSRc\/hqdefault.jpg?sqp=-oaymwEiCMQBEG5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==\\u0026rs=AOn4CLC06o3IO6hObeBy5lR_yFf26DrM4A",
+                  "width": 196,
+                  "height": 110
+                },
+                {
+                  "url": "https:\/\/i.ytimg.com\/vi\/AnIq_NSCSRc\/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=\\u0026rs=AOn4CLCipIKWaY4kRomxq7HaXddXUmXlzw",
+                  "width": 246,
+                  "height": 138
+                },
+                {
+                  "url": "https:\/\/i.ytimg.com\/vi\/AnIq_NSCSRc\/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=\\u0026rs=AOn4CLAgc7RxQT1DVMaZglsDV51Vwe1QCg",
+                  "width": 336,
+                  "height": 188
+                },
+                {
+                  "url": "https:\/\/i.ytimg.com\/vi\/AnIq_NSCSRc\/maxresdefault.jpg",
+                  "width": 1920,
+                  "height": 1080
+                }
+              ]
+            },
+            "playlistLength": {
+              "simpleText": "19 video"
+            },
+            "left": 0.022807017,
+            "width": 0.32280701,
+            "top": 0.32554516,
+            "aspectRatio": 1.7777778,
+            "startMs": "330621",
+            "endMs": "350621",
+            "title": {
+              "accessibility": {
+                "accessibilityData": {
+                  "label": "19 video, Các Khóa Học Nuôi Dạy Con | [Intro - Kyna.vn]"
+                }
+              },
+              "simpleText": "Các Khóa Học Nuôi Dạy Con | [Intro - Kyna.vn]"
+            },
+            "metadata": {
+              "simpleText": "của Kyna.vn"
+            },
+            "endpoint": {
+              "clickTrackingParams": "CAIQ894BGAEiEwibv-vCm_npAhWKeSoKHREmBiUyDGl2LWVuZHNjcmVlbkiI8c_W0peM0x2aAQMQu2k=",
+              "commandMetadata": {
+                "webCommandMetadata": {
+                  "url": "\/watch?v=AnIq_NSCSRc\\u0026list=PLMiXeEirCaaS1KcWbZgcWdyp5JVZmGz5W",
+                  "webPageType": "WEB_PAGE_TYPE_WATCH",
+                  "rootVe": 3832
+                }
+              },
+              "watchEndpoint": {
+                "videoId": "AnIq_NSCSRc",
+                "playlistId": "PLMiXeEirCaaS1KcWbZgcWdyp5JVZmGz5W"
+              }
+            },
+            "trackingParams": "CAIQ894BGAEiEwibv-vCm_npAhWKeSoKHREmBiU=",
+            "id": "d8d19935-0e73-49ee-91ac-7a3cce9be412"
+          }
+        }
+      ],
+      "startMs": "330621",
+      "trackingParams": "CAEQ794BIhMIm7_rwpv56QIVinkqCh0RJgYl"
+    }
+  },
+  "adPlacements": [
+    {
+      "adPlacementRenderer": {
+        "config": {
+          "adPlacementConfig": {
+            "kind": "AD_PLACEMENT_KIND_START",
+            "adTimeOffset": {
+              "offsetStartMilliseconds": "0",
+              "offsetEndMilliseconds": "-1"
+            },
+            "hideCueRangeMarker": true
+          }
+        },
+        "renderer": {
+          "clientForecastingAdRenderer": {
+            "impressionUrls": [
+              {
+                "baseUrl": "https:\/\/securepubads.g.doubleclick.net\/pcs\/view?xai=AKAOjsuvZKjiTzJQ4QgSQoBin51BtRCmBauC49ZEbY-7FqD1CVDeC1rZgQEJ12BUm3Xu_bGIUzrDQ1B7XA5A5rEE7iqKCsbTYyfCJsB8ZsCYCVhsuxx1QMeTv1_ufZdUDKVwPQSXZequmwFHgUpm_p1OUzLZh7qQkx7-PpfB4zVorBEuFypeZr0jMoAAU81CVouLjIAFCR0uwTUvHTdnAdBczrD92pvUAI_cpAPCHR3Od2-G1CsV0MLTVkrYC7dDd574URxyFjVE9T4t\\u0026sig=Cg0ArKJSzIe7lM7ni53oEAE\\u0026adurl="
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "adPlacementRenderer": {
+        "config": {
+          "adPlacementConfig": {
+            "kind": "AD_PLACEMENT_KIND_MILLISECONDS",
+            "adTimeOffset": {
+              "offsetStartMilliseconds": "0",
+              "offsetEndMilliseconds": "-1"
+            },
+            "hideCueRangeMarker": true
+          }
+        },
+        "renderer": {
+          "adBreakServiceRenderer": {
+            "prefetchMilliseconds": "10000",
+            "getAdBreakUrl": "https:\/\/www.youtube.com\/get_midroll_info?ei=-tnhXpvaL4rzqQGRzJioAg\\u0026m_pos=10000\\u0026token=ALWClJL2WjmZIQpLg0vasMcRnwqToTEgxwJSADHg8Lo0P-WR6WYrmpNk1naN6k09GrHj3trerutS448-N7IstMESqT1sWupxhZMVXF4GfRzJeNer4ei18UaSQvpNSntRaWBzH2kc7g4Fb6FcifWleilfgfDTBoNlQ4Mai_SbnJY5GF8I9YZ5d48fHbr0mGZmgstP9SylY4U0SabsiIKLqWI4dTiq4eLk13ml1KSVwCT34pZ-SN-Ky-nePfJJAGjcg77YMKVi4qnzXaEu9wGPArtWGReIzYQYKuELhiq8GVjjMnNPs8Jjl45uOpzjVeA3GUrWLqrJP61PtGpz9rz4-Xq_0PSEwbQllSwlcjqq0ZJ8j3VvaLuQk_w\\u0026index=0\\u0026vis=[VIS]\\u0026ad_block=[AD_BLOCK]\\u0026tsla=[TSLA]\\u0026bid=[BISCOTTI_ID]\\u0026dt=[DT]\\u0026flash=[FLASH]\\u0026frm=[FRM]\\u0026ca_type=[CA_TYPE]\\u0026u_tz=[U_TZ]\\u0026u_his=[U_HIS]\\u0026u_java=[U_JAVA]\\u0026u_h=[U_H]\\u0026u_w=[U_W]\\u0026u_ah=[U_AH]\\u0026u_aw=[U_AW]\\u0026u_cd=[U_CD]\\u0026u_nplug=[U_NPLUG]\\u0026u_nmime=[U_NMIME]\\u0026lact=[LACT]\\u0026p_w=[P_W]\\u0026p_h=[P_H]\\u0026c=WEB\\u0026cver=2.20200609.04.01\\u0026action_proxy=1\\u0026video_id=HaYwvSrT-Ig\\u0026m_pos_ms=10000"
+          }
+        },
+        "adSlotLoggingData": {
+          "serializedSlotAdServingDataEntry": ""
+        }
+      }
+    },
+    {
+      "adPlacementRenderer": {
+        "config": {
+          "adPlacementConfig": {
+            "kind": "AD_PLACEMENT_KIND_END",
+            "adTimeOffset": {
+              "offsetStartMilliseconds": "-1",
+              "offsetEndMilliseconds": "-1"
+            },
+            "hideCueRangeMarker": true
+          }
+        },
+        "renderer": {
+          "adBreakServiceRenderer": {
+            "prefetchMilliseconds": "10000",
+            "getAdBreakUrl": "https:\/\/www.youtube.com\/get_midroll_info?ei=-tnhXpvaL4rzqQGRzJioAg\\u0026m_pos=-1\\u0026token=ALWClJKkcTEOVLmamBpugCCm-f_4xrqDcu_jeasj3kyw8SE3-t8hGkagaZGIsF1mhC4ydFevUo-zy-K8jzoTcrk5yHqrONo6Iyg4da8jE7LNraKXpDWrzIxk80Uvsch3UQqShctVRJPmQgrwRxnjLnYmu9AJkTy4tQJvVzuWxhRKFCCn5QTiWWw-RsRL3arRELiUOGW14G_Dud3f_HEz_xr_yEsmtI0GRHp2q1zRDWFyvxgtQZYxNqNzxr1GyQJvx8py_sFjEl-D_GOfK-1-I7RbiYMb_0Q06BKMXGsS2hJpXn1sLx5J2jNDiEccuYNPe6NjIyYUxPcpaHdEDG4uy3g9jyUMySpPHReQGz-1-weGrkpjJwsPzrk\\u0026index=1\\u0026cpn=[CPN]\\u0026lact=[LACT]\\u0026vis=[VIS]\\u0026ad_block=[AD_BLOCK]\\u0026tsla=[TSLA]\\u0026bid=[BISCOTTI_ID]\\u0026dt=[DT]\\u0026flash=[FLASH]\\u0026frm=[FRM]\\u0026ca_type=[CA_TYPE]\\u0026u_tz=[U_TZ]\\u0026u_his=[U_HIS]\\u0026u_java=[U_JAVA]\\u0026u_h=[U_H]\\u0026u_w=[U_W]\\u0026u_ah=[U_AH]\\u0026u_aw=[U_AW]\\u0026u_cd=[U_CD]\\u0026u_nplug=[U_NPLUG]\\u0026u_nmime=[U_NMIME]\\u0026p_w=[P_W]\\u0026p_h=[P_H]\\u0026c=WEB\\u0026cver=2.20200609.04.01\\u0026m_pos_ms=-1"
+          }
+        },
+        "adSlotLoggingData": {
+          "serializedSlotAdServingDataEntry": ""
+        }
+      }
+    }
+  ]
+}
