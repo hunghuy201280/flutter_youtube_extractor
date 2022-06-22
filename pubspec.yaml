@@ -1,16 +1,15 @@
 name: flutter_youtube_extractor
 description: A new Flutter plugin for getting youtube media link.
 version: 1.0.0
-author: TanLNM <tanlnm@sendo.vn>
 homepage: https://flutter.io
 
 environment:
-  sdk: ">=2.0.0-dev.68.0 <3.0.0"
+  sdk: ">=2.15.0 <3.0.0"
 
 dependencies:
   flutter:
     sdk: flutter
-
+  flutter_lints: ^1.0.4
 flutter:
   plugin:
     platforms:

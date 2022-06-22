@@ -4,11 +4,13 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_youtube_extractor/flutter_youtube_extractor.dart';
 
-void main() => runApp(new MyApp());
+void main() => runApp(const MyApp());
 
 class MyApp extends StatefulWidget {
+  const MyApp({Key? key}) : super(key: key);
+
   @override
-  _MyAppState createState() => new _MyAppState();
+  _MyAppState createState() => _MyAppState();
 }
 
 class _MyAppState extends State<MyApp> {
@@ -23,15 +25,8 @@ class _MyAppState extends State<MyApp> {
 
   Future<void> initPlatformState() async {
     try {
-      FlutterYoutubeExtractor.getYoutubeMediaLink(
-          youtubeLink: 'https://www.youtube.com/watch?v=HaYwvSrT-Ig?rel=0',
-          onReceive: (link) {
-            if (!mounted) return;
-
-            setState(() {
-              _youtubeMediaLink = link;
-            });
-          });
+      _youtubeMediaLink = await FlutterYoutubeExtractor.getYoutubeMediaLink(
+          youtubeLink: 'https://www.youtube.com/watch?v=HaYwvSrT-Ig?rel=0');
     } on PlatformException {
       _youtubeMediaLink = 'Failed to get Youtube Media link.';
     }
@@ -39,16 +34,16 @@ class _MyAppState extends State<MyApp> {
 
   @override
   Widget build(BuildContext context) {
-    return new MaterialApp(
-        home: new Scaffold(
-      appBar: new AppBar(
+    return MaterialApp(
+        home: Scaffold(
+      appBar: AppBar(
         title: const Text('Plugin example app'),
       ),
-      body: new Center(
-        child: new Text('Youtube Media link: $_youtubeMediaLink\n'),
+      body: Center(
+        child: Text('Youtube Media link: $_youtubeMediaLink\n'),
       ),
       floatingActionButton: FloatingActionButton(
-        child: Icon(Icons.rotate_left),
+        child: const Icon(Icons.rotate_left),
         onPressed: () {
           isLandScape = !isLandScape;
           FlutterYoutubeExtractor.requestRotateScreen(isLandscape: isLandScape);
